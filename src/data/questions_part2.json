@@ -1,0 +1,1211 @@
+[
+  {
+    "question": "Mạng tinh thể lập phương tâm khối (BCC) có bao nhiêu nguyên tử trong một ô cơ sở?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "Mạng BCC có 2 nguyên tử/ô: 8 đỉnh × 1/8 + 1 tâm = 2",
+    "id": 301,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Mạng tinh thể lập phương tâm mặt (FCC) có bao nhiêu nguyên tử trong một ô cơ sở?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Mạng FCC có 4 nguyên tử/ô: 8 đỉnh × 1/8 + 6 mặt × 1/2 = 4",
+    "id": 302,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Sắt α (Ferit) có kiểu mạng tinh thể nào?",
+    "options": [
+      "Lập phương tâm mặt (FCC)",
+      "Lập phương tâm khối (BCC)",
+      "Lục giác xếp chặt (HCP)",
+      "Chính phương tâm khối"
+    ],
+    "correct": 1,
+    "explanation": "Fe-α (Ferit) có mạng lập phương tâm khối BCC, tồn tại ở nhiệt độ dưới 911°C",
+    "id": 303,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Sắt γ (Ostenit) có kiểu mạng tinh thể nào?",
+    "options": [
+      "Lập phương tâm khối (BCC)",
+      "Lập phương tâm mặt (FCC)",
+      "Lục giác xếp chặt (HCP)",
+      "Chính phương tâm mặt"
+    ],
+    "correct": 1,
+    "explanation": "Fe-γ (Ostenit) có mạng lập phương tâm mặt FCC, tồn tại ở 911-1392°C",
+    "id": 304,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Giới hạn hòa tan cacbon tối đa trong Ostenit (Fe-γ) là bao nhiêu?",
+    "options": [
+      "0.02%",
+      "0.8%",
+      "2.14%",
+      "4.3%"
+    ],
+    "correct": 2,
+    "explanation": "Ostenit hòa tan tối đa 2.14%C ở 1147°C",
+    "id": 305,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Xementit (Fe₃C) chứa bao nhiêu phần trăm cacbon?",
+    "options": [
+      "2.14%",
+      "4.3%",
+      "6.67%",
+      "0.8%"
+    ],
+    "correct": 2,
+    "explanation": "Xementit Fe₃C là hợp chất hóa học chứa 6.67%C",
+    "id": 306,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Điểm cùng tích trên giản đồ Fe-C ứng với hàm lượng cacbon bao nhiêu?",
+    "options": [
+      "0.02%",
+      "0.8%",
+      "2.14%",
+      "4.3%"
+    ],
+    "correct": 1,
+    "explanation": "Điểm cùng tích S ứng với 0.8%C ở 727°C, tạo ra tổ chức Peclit",
+    "id": 307,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Điểm cùng tinh trên giản đồ Fe-C ứng với hàm lượng cacbon bao nhiêu?",
+    "options": [
+      "0.8%",
+      "2.14%",
+      "4.3%",
+      "6.67%"
+    ],
+    "correct": 2,
+    "explanation": "Điểm cùng tinh C ứng với 4.3%C ở 1147°C, tạo ra tổ chức Ledeburit",
+    "id": 308,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Thép trước cùng tích có hàm lượng cacbon trong khoảng nào?",
+    "options": [
+      "< 0.02%",
+      "0.02% - 0.8%",
+      "0.8% - 2.14%",
+      "> 2.14%"
+    ],
+    "correct": 1,
+    "explanation": "Thép trước cùng tích: 0.02-0.8%C, tổ chức Ferit + Peclit",
+    "id": 309,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Thép sau cùng tích có tổ chức gì ở nhiệt độ thường?",
+    "options": [
+      "Ferit + Peclit",
+      "Peclit + Xementit II",
+      "Ledeburit + Xementit",
+      "Ferit + Xementit"
+    ],
+    "correct": 1,
+    "explanation": "Thép sau cùng tích (0.8-2.14%C): Peclit + Xementit II (thứ cấp)",
+    "id": 310,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Gang trắng có tổ chức đặc trưng nào?",
+    "options": [
+      "Graphit dạng tấm + nền Ferit",
+      "Graphit dạng cầu + nền Peclit",
+      "Ledeburit + Xementit",
+      "Graphit dạng cụm + nền Ferit"
+    ],
+    "correct": 2,
+    "explanation": "Gang trắng không có graphit, cacbon tồn tại dạng Xementit, tổ chức chính là Ledeburit",
+    "id": 311,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Đường A₁ trên giản đồ Fe-C biểu thị sự chuyển biến gì?",
+    "options": [
+      "Ostenit ↔ Ferit",
+      "Ostenit ↔ Peclit",
+      "Ostenit ↔ Xementit",
+      "Lỏng ↔ Rắn"
+    ],
+    "correct": 1,
+    "explanation": "Đường A₁ (727°C): chuyển biến cùng tích Ostenit ↔ Peclit (Ferit + Xementit)",
+    "id": 312,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Thép hợp kim thấp có tổng hàm lượng nguyên tố hợp kim nhỏ hơn bao nhiêu?",
+    "options": [
+      "1%",
+      "2.5%",
+      "5%",
+      "10%"
+    ],
+    "correct": 1,
+    "explanation": "Thép hợp kim thấp: tổng nguyên tố hợp kim < 2.5%",
+    "id": 313,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Vật liệu composite là gì?",
+    "options": [
+      "Hợp kim của nhiều kim loại",
+      "Vật liệu kết hợp từ hai hay nhiều vật liệu khác nhau",
+      "Kim loại được nhiệt luyện đặc biệt",
+      "Vật liệu phi kim tổng hợp"
+    ],
+    "correct": 1,
+    "explanation": "Composite là vật liệu tổ hợp từ 2+ vật liệu thành phần, kết hợp ưu điểm của từng loại",
+    "id": 314,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Nhôm nguyên chất có nhiệt độ nóng chảy khoảng bao nhiêu?",
+    "options": [
+      "327°C",
+      "660°C",
+      "1083°C",
+      "1539°C"
+    ],
+    "correct": 1,
+    "explanation": "Nhôm nóng chảy ở khoảng 660°C",
+    "id": 315,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Đồng nguyên chất có nhiệt độ nóng chảy khoảng bao nhiêu?",
+    "options": [
+      "660°C",
+      "1083°C",
+      "1539°C",
+      "1769°C"
+    ],
+    "correct": 1,
+    "explanation": "Đồng nóng chảy ở khoảng 1083°C",
+    "id": 316,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Thép không gỉ thường chứa nguyên tố hợp kim chính nào?",
+    "options": [
+      "Mn và Si",
+      "W và V",
+      "Cr và Ni",
+      "Mo và Co"
+    ],
+    "correct": 2,
+    "explanation": "Thép không gỉ chứa Cr (≥12%) và thường có Ni để tăng khả năng chống ăn mòn",
+    "id": 317,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Mục đích chính của ủ hoàn toàn là gì?",
+    "options": [
+      "Tăng độ cứng",
+      "Làm đồng đều tổ chức, giảm độ cứng, khử ứng suất dư",
+      "Tăng tính chống mài mòn",
+      "Tăng giới hạn bền"
+    ],
+    "correct": 1,
+    "explanation": "Ủ hoàn toàn giúp làm đồng đều tổ chức, giảm độ cứng, tăng độ dẻo, khử ứng suất dư",
+    "id": 318,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Khi tôi thép, cần nung đến nhiệt độ nào?",
+    "options": [
+      "Dưới A₁",
+      "Trên A₁ (thép sau cùng tích) hoặc trên A₃ (thép trước cùng tích)",
+      "Trên nhiệt độ nóng chảy",
+      "Bất kỳ nhiệt độ nào"
+    ],
+    "correct": 1,
+    "explanation": "Tôi thép cần nung trên Ac1 (thép sau cùng tích) hoặc trên Ac3 (thép trước cùng tích) rồi làm nguội nhanh",
+    "id": 319,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Ram cao (500-650°C) cho tổ chức gì?",
+    "options": [
+      "Mactenxit ram",
+      "Trustit ram",
+      "Xoocbit ram",
+      "Bainit"
+    ],
+    "correct": 2,
+    "explanation": "Ram cao (500-650°C) cho tổ chức Xoocbit ram, cơ tính tổng hợp tốt nhất",
+    "id": 320,
+    "topic": "vat_lieu"
+  },
+  {
+    "question": "Phương pháp miết bóng bằng lăn ép (Roller Burnishing) thuộc loại xử lý bề mặt nào?",
+    "options": [
+      "Xử lý bề mặt bằng hóa học",
+      "Xử lý bề mặt bằng cơ học",
+      "Xử lý bề mặt bằng nhiệt",
+      "Xử lý bề mặt bằng điện hóa"
+    ],
+    "correct": 1,
+    "explanation": "Miết bóng bằng lăn ép là phương pháp xử lý bề mặt bằng cơ học",
+    "id": 321,
+    "topic": "xu_ly_be_mat"
+  },
+  {
+    "question": "Mục đích chính của phun bi (Shot Blasting) là gì?",
+    "options": [
+      "Tăng độ bóng bề mặt",
+      "Làm sạch và tăng bền bề mặt",
+      "Tạo lớp phủ bảo vệ",
+      "Giảm độ cứng bề mặt"
+    ],
+    "correct": 1,
+    "explanation": "Phun bi làm sạch bề mặt và tăng bền bề mặt nhờ biến dạng dẻo lớp bề mặt",
+    "id": 322,
+    "topic": "xu_ly_be_mat"
+  },
+  {
+    "question": "Phương pháp mạ điện thuộc loại xử lý bề mặt nào?",
+    "options": [
+      "Cơ học",
+      "Nhiệt",
+      "Điện hóa",
+      "Hóa học"
+    ],
+    "correct": 2,
+    "explanation": "Mạ điện sử dụng dòng điện để phủ lớp kim loại lên bề mặt chi tiết, thuộc phương pháp điện hóa",
+    "id": 323,
+    "topic": "xu_ly_be_mat"
+  },
+  {
+    "question": "Thấm nitơ có tác dụng gì cho chi tiết?",
+    "options": [
+      "Tăng độ dẻo",
+      "Tăng độ cứng và tính chống mài mòn bề mặt",
+      "Giảm ứng suất dư",
+      "Tăng độ dai va chạm"
+    ],
+    "correct": 1,
+    "explanation": "Thấm nitơ tăng độ cứng bề mặt rất cao (lên đến 1200HV) và tính chống mài mòn",
+    "id": 324,
+    "topic": "xu_ly_be_mat"
+  },
+  {
+    "question": "Sơn phủ bề mặt chủ yếu nhằm mục đích gì?",
+    "options": [
+      "Tăng độ cứng",
+      "Bảo vệ chống ăn mòn và trang trí",
+      "Tăng độ bền kéo",
+      "Tăng tính dẫn nhiệt"
+    ],
+    "correct": 1,
+    "explanation": "Sơn phủ bảo vệ chi tiết khỏi ăn mòn và có tác dụng trang trí",
+    "id": 325,
+    "topic": "xu_ly_be_mat"
+  },
+  {
+    "question": "Phương pháp phun cát (Sand Blasting) chủ yếu dùng để làm gì?",
+    "options": [
+      "Tăng kích thước chi tiết",
+      "Làm sạch bề mặt",
+      "Tạo lỗ trên bề mặt",
+      "Hàn bề mặt"
+    ],
+    "correct": 1,
+    "explanation": "Phun cát dùng để làm sạch bề mặt, loại bỏ gỉ sét, sơn cũ, vảy oxit",
+    "id": 326,
+    "topic": "xu_ly_be_mat"
+  },
+  {
+    "question": "Độ nhám bề mặt Ra càng nhỏ thì bề mặt càng như thế nào?",
+    "options": [
+      "Càng nhám",
+      "Càng bóng",
+      "Càng gồ ghề",
+      "Không thay đổi"
+    ],
+    "correct": 1,
+    "explanation": "Ra là giá trị trung bình sai lệch profin, Ra càng nhỏ = bề mặt càng bóng mịn",
+    "id": 327,
+    "topic": "xu_ly_be_mat"
+  },
+  {
+    "question": "Thấm C-N (xianua hóa) kết hợp thấm đồng thời những nguyên tố nào?",
+    "options": [
+      "Cacbon và Silic",
+      "Cacbon và Nitơ",
+      "Nitơ và Crom",
+      "Cacbon và Crom"
+    ],
+    "correct": 1,
+    "explanation": "Thấm C-N (xianua hóa) thấm đồng thời Cacbon và Nitơ vào bề mặt thép",
+    "id": 328,
+    "topic": "xu_ly_be_mat"
+  },
+  {
+    "question": "Hệ thống rót trong khuôn đúc gồm những bộ phận chính nào?",
+    "options": [
+      "Cốc rót, ống dẫn, rãnh lọc xỉ, rãnh dẫn",
+      "Lõi, mẫu, hòm khuôn",
+      "Đậu hơi, đậu ngót",
+      "Hỗn hợp làm khuôn"
+    ],
+    "correct": 0,
+    "explanation": "Hệ thống rót gồm: cốc rót (phễu rót), ống dẫn (ống rót đứng), rãnh lọc xỉ, rãnh dẫn",
+    "id": 329,
+    "topic": "duc"
+  },
+  {
+    "question": "Đậu hơi trong khuôn đúc có tác dụng gì?",
+    "options": [
+      "Dẫn kim loại lỏng vào khuôn",
+      "Thoát khí và bổ sung kim loại khi co ngót",
+      "Tạo hình lỗ trong vật đúc",
+      "Giữ hai nửa khuôn"
+    ],
+    "correct": 1,
+    "explanation": "Đậu hơi giúp thoát khí trong khuôn và bổ sung kim loại lỏng khi vật đúc co ngót",
+    "id": 330,
+    "topic": "duc"
+  },
+  {
+    "question": "Đúc trong khuôn mẫu chảy có ưu điểm gì nổi bật?",
+    "options": [
+      "Năng suất rất cao",
+      "Chế tạo vật đúc có hình dạng phức tạp, độ chính xác cao",
+      "Chi phí thấp nhất",
+      "Đúc được vật đúc rất lớn"
+    ],
+    "correct": 1,
+    "explanation": "Đúc mẫu chảy tạo vật đúc phức tạp, chính xác cao, bề mặt tốt, không cần gia công cơ nhiều",
+    "id": 331,
+    "topic": "duc"
+  },
+  {
+    "question": "Đúc li tâm lợi dụng nguyên lý nào?",
+    "options": [
+      "Lực trọng trường",
+      "Lực li tâm khi khuôn quay",
+      "Áp suất khí nén",
+      "Lực từ trường"
+    ],
+    "correct": 1,
+    "explanation": "Đúc li tâm: rót kim loại lỏng vào khuôn đang quay, lực li tâm ép kim loại vào thành khuôn",
+    "id": 332,
+    "topic": "duc"
+  },
+  {
+    "question": "Nhiệt độ rót kim loại cần cao hơn nhiệt độ nóng chảy bao nhiêu?",
+    "options": [
+      "Bằng nhiệt độ nóng chảy",
+      "Cao hơn 20-100°C",
+      "Cao hơn 200-500°C",
+      "Cao hơn 500-1000°C"
+    ],
+    "correct": 1,
+    "explanation": "Nhiệt độ rót cần cao hơn nhiệt độ nóng chảy 20-100°C để đảm bảo tính chảy loãng",
+    "id": 333,
+    "topic": "duc"
+  },
+  {
+    "question": "Tính co ngót của hợp kim đúc gây ra khuyết tật gì?",
+    "options": [
+      "Lỗ khí",
+      "Rỗ co, lõm co",
+      "Nứt nóng",
+      "Thiên tích"
+    ],
+    "correct": 1,
+    "explanation": "Co ngót gây ra rỗ co (co phân tán) và lõm co (co tập trung) trong vật đúc",
+    "id": 334,
+    "topic": "duc"
+  },
+  {
+    "question": "Lõi (thao) trong khuôn đúc có tác dụng gì?",
+    "options": [
+      "Tạo lỗ hoặc phần rỗng bên trong vật đúc",
+      "Dẫn kim loại lỏng vào khuôn",
+      "Thoát khí từ khuôn",
+      "Giữ khuôn trên và khuôn dưới"
+    ],
+    "correct": 0,
+    "explanation": "Lõi (thao) dùng để tạo lỗ, rãnh hoặc phần rỗng bên trong vật đúc",
+    "id": 335,
+    "topic": "duc"
+  },
+  {
+    "question": "Đúc áp lực phù hợp nhất với loại hợp kim nào?",
+    "options": [
+      "Gang xám",
+      "Thép cacbon cao",
+      "Hợp kim nhôm, kẽm, đồng",
+      "Thép hợp kim"
+    ],
+    "correct": 2,
+    "explanation": "Đúc áp lực thích hợp cho hợp kim có nhiệt độ nóng chảy thấp: Al, Zn, Cu, Mg",
+    "id": 336,
+    "topic": "duc"
+  },
+  {
+    "question": "Vật liệu chính trong hỗn hợp làm khuôn cát là gì?",
+    "options": [
+      "Đất sét",
+      "Cát thạch anh",
+      "Chất kết dính hữu cơ",
+      "Bột than"
+    ],
+    "correct": 1,
+    "explanation": "Cát thạch anh (SiO₂) chiếm tỉ lệ lớn nhất (85-95%) trong hỗn hợp làm khuôn cát",
+    "id": 337,
+    "topic": "duc"
+  },
+  {
+    "question": "Đúc liên tục thường dùng để sản xuất sản phẩm dạng gì?",
+    "options": [
+      "Chi tiết phức tạp",
+      "Phôi thanh, ống, tấm dài",
+      "Vật đúc nhỏ, chính xác",
+      "Chi tiết có lỗ rỗng"
+    ],
+    "correct": 1,
+    "explanation": "Đúc liên tục sản xuất phôi thanh, ống, tấm có chiều dài lớn, năng suất cao",
+    "id": 338,
+    "topic": "duc"
+  },
+  {
+    "question": "Gia công áp lực dựa trên tính chất nào của kim loại?",
+    "options": [
+      "Tính cứng",
+      "Tính dẻo",
+      "Tính giòn",
+      "Tính đàn hồi"
+    ],
+    "correct": 1,
+    "explanation": "Gia công áp lực lợi dụng tính dẻo của kim loại để tạo hình bằng biến dạng dẻo",
+    "id": 339,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Cán kim loại tạo ra sản phẩm dạng gì?",
+    "options": [
+      "Chỉ dạng tấm",
+      "Chỉ dạng thanh",
+      "Tấm, thanh, ống, hình",
+      "Chỉ dạng ống"
+    ],
+    "correct": 2,
+    "explanation": "Cán tạo ra nhiều dạng sản phẩm: tấm, thanh, ống, thép hình (I, L, U, T...)",
+    "id": 340,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Kéo sợi (kéo dây) tạo ra sản phẩm dạng gì?",
+    "options": [
+      "Tấm phẳng",
+      "Dây, sợi, ống có tiết diện nhỏ",
+      "Vật rèn phức tạp",
+      "Bánh răng"
+    ],
+    "correct": 1,
+    "explanation": "Kéo sợi tạo dây, sợi kim loại có tiết diện nhỏ bằng cách kéo phôi qua khuôn kéo",
+    "id": 341,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Rèn tự do khác rèn khuôn ở điểm nào?",
+    "options": [
+      "Rèn tự do dùng máy búa, rèn khuôn dùng máy ép",
+      "Rèn tự do kim loại biến dạng tự do, rèn khuôn kim loại biến dạng theo lòng khuôn",
+      "Rèn tự do chỉ gia công nguội",
+      "Rèn khuôn chỉ gia công nhỏ"
+    ],
+    "correct": 1,
+    "explanation": "Rèn tự do: kim loại biến dạng tự do giữa hai đe. Rèn khuôn: kim loại điền đầy lòng khuôn",
+    "id": 342,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Dập tấm (dập cắt) sử dụng phôi dạng gì?",
+    "options": [
+      "Phôi thanh tròn",
+      "Phôi tấm (tấm, băng, dải)",
+      "Phôi đúc",
+      "Phôi rèn"
+    ],
+    "correct": 1,
+    "explanation": "Dập tấm sử dụng phôi liệu dạng tấm, băng, dải kim loại",
+    "id": 343,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Gia công nóng có ưu điểm gì so với gia công nguội?",
+    "options": [
+      "Độ chính xác cao hơn",
+      "Lực biến dạng nhỏ hơn, biến dạng lớn hơn",
+      "Bề mặt đẹp hơn",
+      "Không bị oxi hóa"
+    ],
+    "correct": 1,
+    "explanation": "Gia công nóng: lực biến dạng nhỏ, biến dạng lớn, nhưng bề mặt kém, bị oxi hóa",
+    "id": 344,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Nhiệt độ gia công nóng thép phải nằm trong khoảng nào?",
+    "options": [
+      "100-400°C",
+      "400-700°C",
+      "Giữa nhiệt độ kết tinh lại và dưới đường solidus",
+      "Trên nhiệt độ nóng chảy"
+    ],
+    "correct": 2,
+    "explanation": "Gia công nóng: nhiệt độ > nhiệt độ kết tinh lại và < nhiệt độ đường solidus",
+    "id": 345,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Ép chảy (ép đùn) kim loại tạo ra sản phẩm dạng gì?",
+    "options": [
+      "Tấm phẳng",
+      "Thanh, ống, hình có tiết diện không đổi",
+      "Vật rèn phức tạp",
+      "Chi tiết cầu"
+    ],
+    "correct": 1,
+    "explanation": "Ép chảy tạo thanh, ống, hình có tiết diện không đổi bằng cách ép kim loại qua lỗ khuôn",
+    "id": 346,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Nguyên công nào sau đây thuộc dập tấm?",
+    "options": [
+      "Chồn",
+      "Vuốt",
+      "Cắt hình, đột lỗ, uốn, vuốt",
+      "Rèn tự do"
+    ],
+    "correct": 2,
+    "explanation": "Dập tấm gồm: cắt hình, đột lỗ, uốn, vuốt, dập nổi, tóp miệng...",
+    "id": 347,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Tỷ số giữa chiều dài và đường kính phôi khi chồn không được vượt quá bao nhiêu?",
+    "options": [
+      "1.5",
+      "2.0",
+      "2.5",
+      "3.0"
+    ],
+    "correct": 2,
+    "explanation": "Khi chồn, L/D ≤ 2.5 để tránh phôi bị uốn cong (mất ổn định)",
+    "id": 348,
+    "topic": "gia_cong_ap_luc"
+  },
+  {
+    "question": "Hàn nóng chảy khác hàn áp lực ở điểm nào cơ bản?",
+    "options": [
+      "Hàn nóng chảy dùng điện, hàn áp lực dùng khí",
+      "Hàn nóng chảy: kim loại chỗ nối ở trạng thái lỏng; hàn áp lực: trạng thái dẻo hoặc rắn",
+      "Hàn nóng chảy chỉ hàn thép, hàn áp lực hàn mọi vật liệu",
+      "Hàn nóng chảy cần que hàn, hàn áp lực không cần"
+    ],
+    "correct": 1,
+    "explanation": "Hàn nóng chảy: nung chảy kim loại chỗ nối. Hàn áp lực: dùng lực ép khi kim loại ở trạng thái dẻo hoặc rắn",
+    "id": 349,
+    "topic": "han"
+  },
+  {
+    "question": "Hàn hồ quang tay sử dụng nguồn điện có đặc tính ngoài nào?",
+    "options": [
+      "Đặc tính cứng (phẳng)",
+      "Đặc tính dốc xuống",
+      "Đặc tính tăng",
+      "Đặc tính ngang"
+    ],
+    "correct": 1,
+    "explanation": "Hàn hồ quang tay dùng nguồn có đặc tính ngoài dốc xuống để ổn định hồ quang",
+    "id": 350,
+    "topic": "han"
+  },
+  {
+    "question": "Khí bảo vệ trong hàn MIG là gì?",
+    "options": [
+      "CO₂",
+      "Hỗn hợp Ar + CO₂",
+      "Khí trơ (Ar hoặc He)",
+      "Không dùng khí bảo vệ"
+    ],
+    "correct": 2,
+    "explanation": "MIG = Metal Inert Gas: dùng khí trơ (Argon hoặc Helium) bảo vệ vũng hàn",
+    "id": 351,
+    "topic": "han"
+  },
+  {
+    "question": "Khí bảo vệ trong hàn MAG là gì?",
+    "options": [
+      "Khí trơ Argon",
+      "CO₂ hoặc hỗn hợp Ar + CO₂",
+      "Helium",
+      "Không dùng khí"
+    ],
+    "correct": 1,
+    "explanation": "MAG = Metal Active Gas: dùng khí hoạt tính CO₂ hoặc hỗn hợp Ar + CO₂",
+    "id": 352,
+    "topic": "han"
+  },
+  {
+    "question": "Hàn điện tiếp xúc giáp mối dùng để hàn loại mối hàn nào?",
+    "options": [
+      "Mối hàn góc",
+      "Mối hàn chồng",
+      "Mối hàn giáp mối (đối đầu)",
+      "Mối hàn chữ T"
+    ],
+    "correct": 2,
+    "explanation": "Hàn điện tiếp xúc giáp mối: hai chi tiết đặt đối đầu, dùng điện trở tiếp xúc để nung nóng",
+    "id": 353,
+    "topic": "han"
+  },
+  {
+    "question": "Hàn điểm thuộc nhóm phương pháp hàn nào?",
+    "options": [
+      "Hàn nóng chảy",
+      "Hàn áp lực",
+      "Hàn vảy",
+      "Hàn khí"
+    ],
+    "correct": 1,
+    "explanation": "Hàn điểm là một loại hàn điện tiếp xúc, thuộc nhóm hàn áp lực",
+    "id": 354,
+    "topic": "han"
+  },
+  {
+    "question": "Hàn tự động dưới lớp thuốc bảo vệ có ưu điểm gì?",
+    "options": [
+      "Hàn được mọi vị trí",
+      "Năng suất cao, chất lượng mối hàn cao",
+      "Chi phí thấp nhất",
+      "Không cần thợ hàn"
+    ],
+    "correct": 1,
+    "explanation": "Hàn tự động dưới lớp thuốc: năng suất rất cao, chất lượng tốt, thích hợp mối hàn dài, thẳng, hàn sấp",
+    "id": 355,
+    "topic": "han"
+  },
+  {
+    "question": "Que hàn N46 có giới hạn bền kéo kim loại mối hàn là bao nhiêu?",
+    "options": [
+      "46 N/mm²",
+      "460 N/mm²",
+      "4600 N/mm²",
+      "4.6 N/mm²"
+    ],
+    "correct": 1,
+    "explanation": "N46: hai chữ số 46 × 10 = 460 N/mm² là giới hạn bền kéo σb của kim loại mối hàn",
+    "id": 356,
+    "topic": "han"
+  },
+  {
+    "question": "Khi hàn hồ quang tay, chiều dài hồ quang nên giữ bao nhiêu so với đường kính que hàn?",
+    "options": [
+      "Lhq = 0.5d",
+      "Lhq = (0.5-1.1)d",
+      "Lhq = 2d",
+      "Lhq = 3d"
+    ],
+    "correct": 1,
+    "explanation": "Chiều dài hồ quang hợp lý Lhq = (0.5-1.1)d, với d là đường kính lõi que hàn",
+    "id": 357,
+    "topic": "han"
+  },
+  {
+    "question": "Hàn Plasma khác hàn TIG ở điểm nào?",
+    "options": [
+      "Plasma dùng dây hàn, TIG không",
+      "Plasma có hồ quang bị nén với nhiệt độ rất cao",
+      "Plasma dùng khí CO₂",
+      "Không có sự khác biệt"
+    ],
+    "correct": 1,
+    "explanation": "Hàn Plasma: hồ quang bị nén qua vòi phun nhỏ, đạt nhiệt độ rất cao (20.000-30.000°C)",
+    "id": 358,
+    "topic": "han"
+  },
+  {
+    "question": "Chuyển động cắt chính trong gia công tiện là gì?",
+    "options": [
+      "Phôi quay tròn",
+      "Dao quay tròn",
+      "Phôi tịnh tiến",
+      "Dao tịnh tiến qua lại"
+    ],
+    "correct": 0,
+    "explanation": "Tiện: chuyển động cắt chính là phôi quay tròn, dao tịnh tiến (chạy dao)",
+    "id": 359,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Chuyển động cắt chính trong gia công phay là gì?",
+    "options": [
+      "Phôi quay tròn",
+      "Dao quay tròn",
+      "Phôi tịnh tiến",
+      "Dao tịnh tiến"
+    ],
+    "correct": 1,
+    "explanation": "Phay: chuyển động cắt chính là dao quay tròn, phôi tịnh tiến (chạy dao)",
+    "id": 360,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Góc trước (γ) của dao cắt ảnh hưởng chủ yếu đến yếu tố nào?",
+    "options": [
+      "Độ bền dao",
+      "Sự thoát phoi và lực cắt",
+      "Ma sát với bề mặt gia công",
+      "Độ chính xác gia công"
+    ],
+    "correct": 1,
+    "explanation": "Góc trước ảnh hưởng đến sự thoát phoi: γ lớn → phoi thoát dễ, lực cắt giảm",
+    "id": 361,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Góc sau (α) của dao cắt ảnh hưởng chủ yếu đến yếu tố nào?",
+    "options": [
+      "Sự thoát phoi",
+      "Ma sát giữa dao và mặt đã gia công",
+      "Chiều sâu cắt",
+      "Tốc độ cắt"
+    ],
+    "correct": 1,
+    "explanation": "Góc sau giảm ma sát giữa mặt sau dao và bề mặt đã gia công",
+    "id": 362,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Tốc độ cắt khi mài tính bằng đơn vị gì?",
+    "options": [
+      "m/phút",
+      "m/giây",
+      "mm/vòng",
+      "mm/răng"
+    ],
+    "correct": 1,
+    "explanation": "Tốc độ cắt khi mài: v = 25-35 m/s (mét trên giây), do đá mài quay rất nhanh",
+    "id": 363,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Lượng chạy dao trong gia công tiện tính bằng đơn vị gì?",
+    "options": [
+      "mm/răng",
+      "mm/vòng",
+      "mm/hành trình kép",
+      "m/giây"
+    ],
+    "correct": 1,
+    "explanation": "Tiện: lượng chạy dao S tính bằng mm/vòng (quay của phôi)",
+    "id": 364,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Lượng chạy dao trong gia công phay tính bằng đơn vị gì?",
+    "options": [
+      "mm/vòng",
+      "mm/răng",
+      "mm/hành trình kép",
+      "m/giây"
+    ],
+    "correct": 1,
+    "explanation": "Phay: lượng chạy dao Sz tính bằng mm/răng (của dao phay)",
+    "id": 365,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Đá mài thuộc loại dụng cụ cắt nào?",
+    "options": [
+      "Có lưỡi cắt xác định",
+      "Có lưỡi cắt không xác định",
+      "Không có lưỡi cắt",
+      "Lưỡi cắt đơn"
+    ],
+    "correct": 1,
+    "explanation": "Đá mài có thông số hình học lưỡi cắt không xác định (hạt mài phân bố ngẫu nhiên)",
+    "id": 366,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Phương pháp gia công nào cho độ bóng bề mặt cao nhất?",
+    "options": [
+      "Tiện thô",
+      "Phay",
+      "Mài",
+      "Khoan"
+    ],
+    "correct": 2,
+    "explanation": "Mài cho độ bóng bề mặt cao nhất trong các phương pháp gia công cắt gọt thông dụng",
+    "id": 367,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Công thức tính số vòng quay trục chính khi tiện là gì?",
+    "options": [
+      "n = 1000V/(πD)",
+      "n = πDV/1000",
+      "n = V/D",
+      "n = D/(1000V)"
+    ],
+    "correct": 0,
+    "explanation": "Từ V = πDn/1000 → n = 1000V/(πD), với V(m/ph), D(mm), n(vòng/ph)",
+    "id": 368,
+    "topic": "cat_got"
+  },
+  {
+    "question": "Máy tiện vạn năng có thể gia công những bề mặt nào?",
+    "options": [
+      "Chỉ mặt trụ ngoài",
+      "Mặt trụ, mặt côn, mặt đầu, ren, cắt đứt",
+      "Chỉ mặt phẳng",
+      "Chỉ lỗ"
+    ],
+    "correct": 1,
+    "explanation": "Máy tiện vạn năng gia công: mặt trụ ngoài/trong, mặt côn, mặt đầu, ren, cắt đứt, mặt định hình",
+    "id": 369,
+    "topic": "may_cong_cu"
+  },
+  {
+    "question": "Máy phay ngang khác máy phay đứng ở điểm nào?",
+    "options": [
+      "Công suất",
+      "Phương của trục chính mang dao",
+      "Kích thước bàn máy",
+      "Tốc độ cắt"
+    ],
+    "correct": 1,
+    "explanation": "Máy phay ngang: trục chính nằm ngang. Máy phay đứng: trục chính thẳng đứng",
+    "id": 370,
+    "topic": "may_cong_cu"
+  },
+  {
+    "question": "Máy bào có chuyển động chính là gì?",
+    "options": [
+      "Phôi quay tròn",
+      "Dao quay tròn",
+      "Dao hoặc phôi chuyển động thẳng qua lại",
+      "Dao chuyển động tròn"
+    ],
+    "correct": 2,
+    "explanation": "Máy bào: chuyển động chính là thẳng qua lại (bào ngang: dao chạy, bào giường: phôi chạy)",
+    "id": 371,
+    "topic": "may_cong_cu"
+  },
+  {
+    "question": "Máy xọc có chuyển động chính theo phương nào?",
+    "options": [
+      "Ngang",
+      "Thẳng đứng",
+      "Nghiêng",
+      "Tròn"
+    ],
+    "correct": 1,
+    "explanation": "Máy xọc: dao chuyển động thẳng đứng qua lại, dùng gia công rãnh then, bánh răng trong",
+    "id": 372,
+    "topic": "may_cong_cu"
+  },
+  {
+    "question": "Máy khoan cần có ưu điểm gì so với máy khoan đứng?",
+    "options": [
+      "Chính xác hơn",
+      "Khoan được nhiều lỗ trên chi tiết lớn mà không cần di chuyển phôi",
+      "Tốc độ nhanh hơn",
+      "Giá thành rẻ hơn"
+    ],
+    "correct": 1,
+    "explanation": "Máy khoan cần: cánh tay quay cho phép khoan nhiều lỗ trên phôi lớn mà không cần di chuyển phôi",
+    "id": 373,
+    "topic": "may_cong_cu"
+  },
+  {
+    "question": "Đầu phân độ vạn năng dùng để làm gì?",
+    "options": [
+      "Đo kích thước",
+      "Chia đều các phần trên chi tiết (gia công bánh răng, rãnh)",
+      "Mài dao",
+      "Đo góc côn"
+    ],
+    "correct": 1,
+    "explanation": "Đầu phân độ chia đều chi tiết thành nhiều phần bằng nhau, dùng khi phay bánh răng, rãnh xoắn",
+    "id": 374,
+    "topic": "may_cong_cu"
+  },
+  {
+    "question": "Ký hiệu máy tiện ren vít vạn năng 1K62 có ý nghĩa gì?",
+    "options": [
+      "1=nhóm tiện, K=thế hệ cải tiến, 62=chiều cao tâm",
+      "1=nhóm khoan, K=kiểu, 62=đường kính khoan max",
+      "1=nhóm phay, K=kiểu, 62=kích thước bàn",
+      "1=số hiệu nhà máy, K62=mã sản phẩm"
+    ],
+    "correct": 0,
+    "explanation": "1=nhóm máy tiện, K=cải tiến, 6=loại tiện ren vít vạn năng, 2=thông số (chiều cao tâm ≈200mm)",
+    "id": 375,
+    "topic": "may_cong_cu"
+  },
+  {
+    "question": "Gia công bằng tia laser thuộc nhóm gia công đặc biệt nào?",
+    "options": [
+      "Gia công cơ",
+      "Gia công bằng chùm tia năng lượng cao",
+      "Gia công điện hóa",
+      "Gia công bằng siêu âm"
+    ],
+    "correct": 1,
+    "explanation": "Gia công laser sử dụng chùm tia năng lượng cao để cắt, khoan, hàn, in 3D",
+    "id": 376,
+    "topic": "gia_cong_dac_biet"
+  },
+  {
+    "question": "Gia công bằng tia lửa điện (EDM) yêu cầu vật liệu gia công phải có tính chất gì?",
+    "options": [
+      "Tính dẻo cao",
+      "Dẫn điện",
+      "Tính từ",
+      "Tính giòn"
+    ],
+    "correct": 1,
+    "explanation": "EDM yêu cầu vật liệu phải dẫn điện, vì nguyên lý dựa trên phóng điện giữa điện cực và phôi",
+    "id": 377,
+    "topic": "gia_cong_dac_biet"
+  },
+  {
+    "question": "Gia công bằng tia nước (Water Jet) có ưu điểm gì?",
+    "options": [
+      "Chỉ cắt được kim loại",
+      "Cắt được hầu hết vật liệu, không gây biến dạng nhiệt",
+      "Chỉ cắt được vật liệu mỏng",
+      "Tốc độ cắt rất chậm"
+    ],
+    "correct": 1,
+    "explanation": "Tia nước cắt được hầu hết vật liệu (kim loại, đá, gỗ, nhựa...), không gây ảnh hưởng nhiệt",
+    "id": 378,
+    "topic": "gia_cong_dac_biet"
+  },
+  {
+    "question": "In 3D kim loại bằng laser (SLM/SLS) thuộc phương pháp chế tạo nào?",
+    "options": [
+      "Chế tạo cắt bỏ vật liệu",
+      "Chế tạo bồi đắp (Additive Manufacturing)",
+      "Chế tạo biến dạng",
+      "Chế tạo đúc"
+    ],
+    "correct": 1,
+    "explanation": "In 3D kim loại là công nghệ chế tạo bồi đắp, xây dựng chi tiết từng lớp từ bột kim loại",
+    "id": 379,
+    "topic": "gia_cong_dac_biet"
+  },
+  {
+    "question": "Gia công bằng siêu âm thích hợp cho vật liệu nào?",
+    "options": [
+      "Thép mềm",
+      "Vật liệu cứng và giòn (gốm, thủy tinh, carbide)",
+      "Nhôm",
+      "Đồng"
+    ],
+    "correct": 1,
+    "explanation": "Gia công siêu âm phù hợp cho vật liệu cứng giòn: gốm, thủy tinh, đá quý, carbide",
+    "id": 380,
+    "topic": "gia_cong_dac_biet"
+  },
+  {
+    "question": "Dung sai là gì?",
+    "options": [
+      "Hiệu giữa kích thước lớn nhất và nhỏ nhất cho phép",
+      "Kích thước danh nghĩa",
+      "Sai số đo",
+      "Độ chính xác máy"
+    ],
+    "correct": 0,
+    "explanation": "Dung sai T = Dmax - Dmin = es - ei (trục) hoặc ES - EI (lỗ)",
+    "id": 381,
+    "topic": "dung_sai"
+  },
+  {
+    "question": "Trong hệ thống lỗ, chi tiết nào có kích thước cố định?",
+    "options": [
+      "Trục",
+      "Lỗ",
+      "Cả hai",
+      "Không chi tiết nào"
+    ],
+    "correct": 1,
+    "explanation": "Hệ thống lỗ: lỗ là chi tiết cơ sở (kích thước cố định), thay đổi kích thước trục để có kiểu lắp",
+    "id": 382,
+    "topic": "dung_sai"
+  },
+  {
+    "question": "Ký hiệu ɸ50H7 biểu thị thông số gì?",
+    "options": [
+      "Trục đường kính 50mm, cấp chính xác 7",
+      "Lỗ đường kính 50mm, cấp chính xác 7",
+      "Kích thước tự do",
+      "Dung sai hình dạng"
+    ],
+    "correct": 1,
+    "explanation": "H = hệ thống lỗ (chữ in hoa), 50 = đường kính danh nghĩa, 7 = cấp chính xác (IT7)",
+    "id": 383,
+    "topic": "dung_sai"
+  },
+  {
+    "question": "Cấp chính xác IT nào cao nhất trong các cấp sau?",
+    "options": [
+      "IT5",
+      "IT7",
+      "IT9",
+      "IT12"
+    ],
+    "correct": 0,
+    "explanation": "Số IT càng nhỏ → cấp chính xác càng cao. IT5 chính xác nhất trong 4 lựa chọn",
+    "id": 384,
+    "topic": "dung_sai"
+  },
+  {
+    "question": "Lắp ghép có độ dôi là kiểu lắp ghép nào?",
+    "options": [
+      "Kích thước trục luôn lớn hơn lỗ",
+      "Kích thước lỗ luôn lớn hơn trục",
+      "Có thể có khe hở hoặc độ dôi",
+      "Kích thước bằng nhau"
+    ],
+    "correct": 0,
+    "explanation": "Lắp có độ dôi: kích thước trục > lỗ → trục ép chặt vào lỗ",
+    "id": 385,
+    "topic": "dung_sai"
+  },
+  {
+    "question": "CNC là viết tắt của cụm từ nào?",
+    "options": [
+      "Computer Network Control",
+      "Computer Numerical Control",
+      "Central Numeric Computer",
+      "Controlled Numeric Code"
+    ],
+    "correct": 1,
+    "explanation": "CNC = Computer Numerical Control = Điều khiển số bằng máy tính",
+    "id": 386,
+    "topic": "tu_dong_hoa"
+  },
+  {
+    "question": "CAD là phần mềm dùng để làm gì?",
+    "options": [
+      "Lập trình gia công",
+      "Thiết kế có sự trợ giúp của máy tính",
+      "Điều khiển robot",
+      "Quản lý sản xuất"
+    ],
+    "correct": 1,
+    "explanation": "CAD = Computer-Aided Design = Thiết kế có sự trợ giúp của máy tính",
+    "id": 387,
+    "topic": "tu_dong_hoa"
+  },
+  {
+    "question": "CAM là phần mềm dùng để làm gì?",
+    "options": [
+      "Thiết kế sản phẩm",
+      "Lập trình và điều khiển gia công có sự trợ giúp của máy tính",
+      "Quản lý nhân sự",
+      "Bán hàng trực tuyến"
+    ],
+    "correct": 1,
+    "explanation": "CAM = Computer-Aided Manufacturing = Sản xuất có sự trợ giúp của máy tính",
+    "id": 388,
+    "topic": "tu_dong_hoa"
+  },
+  {
+    "question": "FMS là gì?",
+    "options": [
+      "Flexible Manufacturing System",
+      "Fast Machine Setup",
+      "Fixed Module System",
+      "Full Metal Structure"
+    ],
+    "correct": 0,
+    "explanation": "FMS = Flexible Manufacturing System = Hệ thống sản xuất linh hoạt",
+    "id": 389,
+    "topic": "tu_dong_hoa"
+  },
+  {
+    "question": "CIM là gì?",
+    "options": [
+      "Computer Integrated Manufacturing",
+      "Central Input Module",
+      "Coded Instruction Machine",
+      "Complete Industrial Method"
+    ],
+    "correct": 0,
+    "explanation": "CIM = Computer Integrated Manufacturing = Sản xuất tích hợp máy tính",
+    "id": 390,
+    "topic": "tu_dong_hoa"
+  },
+  {
+    "question": "Robot công nghiệp thường có bao nhiêu bậc tự do?",
+    "options": [
+      "1-2",
+      "3-4",
+      "4-6",
+      "10-12"
+    ],
+    "correct": 2,
+    "explanation": "Robot công nghiệp thường có 4-6 bậc tự do để thực hiện các thao tác phức tạp",
+    "id": 391,
+    "topic": "tu_dong_hoa"
+  },
+  {
+    "question": "Ngôn ngữ lập trình CNC phổ biến nhất là gì?",
+    "options": [
+      "Python",
+      "G-code và M-code",
+      "Java",
+      "C++"
+    ],
+    "correct": 1,
+    "explanation": "G-code (lệnh di chuyển) và M-code (lệnh phụ trợ) là ngôn ngữ chuẩn cho máy CNC",
+    "id": 392,
+    "topic": "tu_dong_hoa"
+  },
+  {
+    "question": "Cảm biến (sensor) trong tự động hóa sản xuất dùng để làm gì?",
+    "options": [
+      "Cung cấp năng lượng",
+      "Thu thập thông tin về trạng thái của quá trình sản xuất",
+      "Điều khiển động cơ",
+      "Lưu trữ dữ liệu"
+    ],
+    "correct": 1,
+    "explanation": "Cảm biến thu thập thông tin (nhiệt độ, áp suất, vị trí, lực...) để điều khiển quá trình tự động",
+    "id": 393,
+    "topic": "tu_dong_hoa"
+  }
+]
