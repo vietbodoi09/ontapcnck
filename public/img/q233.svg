@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" font-family="Segoe UI, sans-serif">
+  <rect width="400" height="280" fill="#f8fafc" rx="8"/>
+  <text x="200" y="24" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">Thông số hình học dao tiện</text>
+  <!-- Workpiece -->
+  <rect x="150" y="40" width="220" height="60" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5" rx="2"/>
+  <text x="260" y="75" text-anchor="middle" font-size="11" fill="#64748b">Phôi</text>
+  <!-- Tool body -->
+  <polygon points="80,200 180,100 220,100 200,130 160,200" fill="#cbd5e1" stroke="#475569" stroke-width="1.5"/>
+  <text x="120" y="220" text-anchor="middle" font-size="11" fill="#64748b">Thân dao</text>
+  <!-- Cutting edge main -->
+  <line x1="180" y1="100" x2="220" y2="100" stroke="#dc2626" stroke-width="2.5"/>
+  <!-- Angle alpha (clearance) -->
+  <path d="M 160,160 Q 165,140 180,130" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="145" y="140" font-size="13" font-weight="700" fill="#2563eb">α</text>
+  <text x="130" y="155" font-size="9" fill="#2563eb">(góc sau)</text>
+  <!-- Angle gamma (rake) -->
+  <path d="M 195,130 Q 200,115 210,108" fill="none" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="208" y="125" font-size="13" font-weight="700" fill="#16a34a">γ</text>
+  <text x="220" y="138" font-size="9" fill="#16a34a">(góc trước)</text>
+  <!-- Angle phi (main cutting edge) -->
+  <path d="M 250,100 Q 235,108 225,100" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="258" y="118" font-size="14" font-weight="700" fill="#dc2626">φ</text>
+  <text x="248" y="132" font-size="9" fill="#dc2626">(góc nghiêng chính)</text>
+  <!-- Feed direction -->
+  <line x1="300" y1="100" x2="240" y2="100" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="240,97 240,103 233,100" fill="#f59e0b"/>
+  <text x="270" y="93" text-anchor="middle" font-size="10" fill="#f59e0b">S (chạy dao)</text>
+  <!-- Legend -->
+  <rect x="20" y="240" width="360" height="32" fill="#eff6ff" rx="6"/>
+  <text x="200" y="260" text-anchor="middle" font-size="10" fill="#1e40af">1=α (góc sau) · 2=γ (góc trước) · 3=φ (góc nghiêng chính) · 4=φ₁ (góc nghiêng phụ)</text>
+</svg>

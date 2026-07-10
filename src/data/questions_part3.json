@@ -340,7 +340,7 @@
   {
     "id": 427,
     "exam": "20172",
-    "question": "Hãy chỉ ra chuyển động chính trên sơ đồ dưới?",
+    "question": "Trên sơ đồ nguyên lý máy tiện, các chuyển động gồm: chuyển động quay của phôi (chuyển động chính) và chuyển động tịnh tiến của dao (chạy dao). Hãy chỉ ra chuyển động chính?",
     "options": [
       "p",
       "j",
@@ -348,7 +348,8 @@
       "i"
     ],
     "correct": 1,
-    "explanation": "Trên sơ đồ tiện, chuyển động chính là chuyển động quay của phôi (j - chuyển động quay tròn của trục chính mang phôi)."
+    "explanation": "Trên sơ đồ tiện, chuyển động chính là chuyển động quay của phôi (j - chuyển động quay tròn của trục chính mang phôi).",
+    "image": "/img/q427.svg"
   },
   {
     "id": 428,
@@ -2492,7 +2493,7 @@
     "id": 582,
     "exam": "007",
     "topic": "de_thi",
-    "question": "Với góc φ nào trên hình vẽ bên, vị trí không gian của mối hàn được gọi là hàn trần?",
+    "question": "Khi hàn, góc φ biểu thị vị trí không gian của mối hàn (φ=0° là hàn sấp, φ=90° là hàn ngang, φ=180° là hàn trần). Với góc φ nào vị trí không gian của mối hàn được gọi là hàn trần?",
     "options": [
       "φ = 25°",
       "φ = 95°",
@@ -2500,7 +2501,8 @@
       "φ = 190°"
     ],
     "correct": 2,
-    "explanation": "Hàn trần khi φ = 180° (tấm hàn ở trên, que hàn ở dưới)"
+    "explanation": "Hàn trần khi φ = 180° (tấm hàn ở trên, que hàn ở dưới)",
+    "image": "/img/q582.svg"
   },
   {
     "id": 583,

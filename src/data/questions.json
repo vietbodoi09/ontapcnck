@@ -3035,7 +3035,7 @@
   {
     "id": 233,
     "topic": "cat_got",
-    "question": "Cho sơ đồ hình vẽ, góc nào là góc nghiêng chính?",
+    "question": "Cho sơ đồ thông số hình học của dao tiện (1-góc sau α, 2-góc trước γ, 3-góc nghiêng chính φ, 4-góc nghiêng phụ φ₁), góc nào là góc nghiêng chính?",
     "options": [
       "1 (α)",
       "2 (γ)",
@@ -3043,7 +3043,8 @@
       "4"
     ],
     "correct": 2,
-    "explanation": "Góc nghiêng chính (φ) thường đánh số 3 trên sơ đồ dao tiện"
+    "explanation": "Góc nghiêng chính (φ) thường đánh số 3 trên sơ đồ dao tiện",
+    "image": "/img/q233.svg"
   },
   {
     "id": 234,
@@ -3852,7 +3853,7 @@
   {
     "id": 296,
     "topic": "cat_got",
-    "question": "Trên sơ đồ hãy chỉ ra kí hiệu lượng chạy dao?",
+    "question": "Trên sơ đồ cắt gọt kim loại, các thông số gồm: A-diện tích cắt, t-chiều sâu cắt, S-lượng chạy dao, b-chiều rộng cắt. Hãy chỉ ra kí hiệu lượng chạy dao?",
     "options": [
       "A",
       "t",
@@ -3860,7 +3861,8 @@
       "b"
     ],
     "correct": 2,
-    "explanation": "S là kí hiệu lượng chạy dao trên sơ đồ cắt gọt"
+    "explanation": "S là kí hiệu lượng chạy dao trên sơ đồ cắt gọt",
+    "image": "/img/q296.svg"
   },
   {
     "id": 297,
@@ -5463,7 +5465,7 @@
   {
     "id": 427,
     "exam": "20172",
-    "question": "Hãy chỉ ra chuyển động chính trên sơ đồ dưới?",
+    "question": "Trên sơ đồ nguyên lý máy tiện, các chuyển động gồm: chuyển động quay của phôi (chuyển động chính) và chuyển động tịnh tiến của dao (chạy dao). Hãy chỉ ra chuyển động chính?",
     "options": [
       "p",
       "j",
@@ -5471,7 +5473,8 @@
       "i"
     ],
     "correct": 1,
-    "explanation": "Trên sơ đồ tiện, chuyển động chính là chuyển động quay của phôi (j - chuyển động quay tròn của trục chính mang phôi)."
+    "explanation": "Trên sơ đồ tiện, chuyển động chính là chuyển động quay của phôi (j - chuyển động quay tròn của trục chính mang phôi).",
+    "image": "/img/q427.svg"
   },
   {
     "id": 428,
@@ -7615,7 +7618,7 @@
     "id": 582,
     "exam": "007",
     "topic": "de_thi",
-    "question": "Với góc φ nào trên hình vẽ bên, vị trí không gian của mối hàn được gọi là hàn trần?",
+    "question": "Khi hàn, góc φ biểu thị vị trí không gian của mối hàn (φ=0° là hàn sấp, φ=90° là hàn ngang, φ=180° là hàn trần). Với góc φ nào vị trí không gian của mối hàn được gọi là hàn trần?",
     "options": [
       "φ = 25°",
       "φ = 95°",
@@ -7623,7 +7626,8 @@
       "φ = 190°"
     ],
     "correct": 2,
-    "explanation": "Hàn trần khi φ = 180° (tấm hàn ở trên, que hàn ở dưới)"
+    "explanation": "Hàn trần khi φ = 180° (tấm hàn ở trên, que hàn ở dưới)",
+    "image": "/img/q582.svg"
   },
   {
     "id": 583,

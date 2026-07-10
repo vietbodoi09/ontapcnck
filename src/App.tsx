@@ -1,7 +1,7 @@
 import { useState } from "react";
 import questionsData from "./data/questions.json";
 
-interface Q { id:number; topic:string; question:string; options:string[]; correct:number; explanation:string; exam?:string; }
+interface Q { id:number; topic:string; question:string; options:string[]; correct:number; explanation:string; exam?:string; image?:string; }
 type Sec = "p1"|"p2"|"p3";
 type Scr = "home"|"topics"|"exams"|"quiz"|"results";
 
@@ -87,7 +87,6 @@ export default function App() {
     </div></header>
   );
 
-  // HOME
   if(scr==="home") return <>
     <Hdr/>
     <div className="ctn">
@@ -101,19 +100,19 @@ export default function App() {
           <div className="sh"><div className="sn sn1">1</div>
           <div><div className="st">300 câu trắc nghiệm</div><div className="ss">Ngân hàng câu hỏi có giải đáp</div></div></div>
           <div className="tags">{Object.entries(tm("p1")).map(([t,qs])=><span key={t} className="tag">{T[t]||t} ({qs.length})</span>)}</div>
-          <div className="sl sl1">{p1Q.length} câu →</div>
+          <div className="sl sl1">{p1Q.length} câu</div>
         </button>
         <button className="sc" onClick={()=>selSec("p2")}>
           <div className="sh"><div className="sn sn2">2</div>
           <div><div className="st">Câu hỏi tổng hợp</div><div className="ss">Bổ sung từ bài giảng</div></div></div>
           <div className="tags">{Object.entries(tm("p2")).map(([t,qs])=><span key={t} className="tag">{T[t]||t} ({qs.length})</span>)}</div>
-          <div className="sl sl2">{p2Q.length} câu →</div>
+          <div className="sl sl2">{p2Q.length} câu</div>
         </button>
         <button className="sc" onClick={()=>selSec("p3")}>
           <div className="sh"><div className="sn sn3">3</div>
           <div><div className="st">Đề thi các năm</div><div className="ss">Luyện đề thi thực tế</div></div></div>
           <div className="tags">{Object.entries(em()).map(([e,qs])=><span key={e} className="tag">{EN[e]||e} ({qs.length})</span>)}</div>
-          <div className="sl sl3">{p3Q.length} câu →</div>
+          <div className="sl sl3">{p3Q.length} câu</div>
         </button>
       </div>
       <div className="ov"><h3>Tổng quan chủ đề</h3>
@@ -128,7 +127,6 @@ export default function App() {
     <div className="ft">Dựa trên bài giảng PGS. TS. Vũ Đình Toại - ĐHBK Hà Nội</div>
   </>;
 
-  // TOPICS (Part 1 & 2)
   if(scr==="topics") {
     const mp=tm(sec); const tot=sec==="p1"?p1Q.length:p2Q.length;
     return <>
@@ -149,7 +147,6 @@ export default function App() {
     </>;
   }
 
-  // EXAMS (Part 3)
   if(scr==="exams") {
     const mp=em();
     return <>
@@ -170,7 +167,6 @@ export default function App() {
     </>;
   }
 
-  // QUIZ
   if(scr==="quiz") {
     const q=qzQ[ci]; const prog=((ci+1)/qzQ.length)*100;
     const hSel=(idx:number)=>{
@@ -196,6 +192,7 @@ export default function App() {
         <div className="qc">
           <div className="qi">Câu {q.id}</div>
           <div className="qtx">{q.question}</div>
+          {q.image&&<img src={q.image} alt="" className="qimg"/>}
           <div className="opts">{q.options.map((opt,idx)=>{
             let c="opt",l="ol";
             if(sr){c+=" dis";if(idx===q.correct){c+=" cor";l+=" cl";}else if(idx===sa){c+=" wrg";l+=" wl";}}
@@ -213,7 +210,6 @@ export default function App() {
     </>;
   }
 
-  // RESULTS
   const pct=Math.round((fS/fT)*100);
   const wQ=qzQ.filter((_,i)=>fA[i]!==_.correct);
   let grade="",gc="";
@@ -245,6 +241,7 @@ export default function App() {
           return <div key={q.id} className="wi">
             <div className="qi">Câu {q.id}</div>
             <div className="wq">{q.question}</div>
+            {q.image&&<img src={q.image} alt="" className="qimg"/>}
             <div className="wos">{q.options.map((o,i)=>
               <div key={i} className={`wo ${i===q.correct?"wc":i===uans?"ww":"wn"}`}>
                 <b style={{width:20}}>{OL[i]}.</b> {o}{i===q.correct?" ✅":""}{i===uans&&i!==q.correct?" ❌":""}
