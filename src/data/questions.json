@@ -5413,15 +5413,15 @@
   {
     "id": 423,
     "exam": "20172",
-    "question": "Chọn loại máy công cụ để gia công mặt trụ?",
+    "question": "Chọn loại máy công cụ để gia công mặt phẳng?",
     "options": [
       "Máy mài phẳng",
       "Máy khoan cần",
       "Máy bào giường",
       "Cả a và c"
     ],
-    "correct": 0,
-    "explanation": "Máy mài phẳng có thể gia công mặt trụ ngoài khi sử dụng đồ gá thích hợp. Tuy nhiên dựa vào đáp án đã đánh dấu trên đề, đáp án là a) Máy mài phẳng."
+    "correct": 3,
+    "explanation": "Cả máy mài phẳng (a) và máy bào giường (c) đều gia công được mặt phẳng"
   },
   {
     "id": 424,
@@ -5728,15 +5728,15 @@
     "id": 447,
     "exam": "546105",
     "topic": "de_thi",
-    "question": "Chỉ ra đặc điểm nào của vật liệu là có hại khi gia công nóng?",
+    "question": "Chỉ ra đặc điểm nào là có hại khi gia công nóng?",
     "options": [
-      "Dẻ bị oxy hóa",
-      "Cơ tổ chức thô",
-      "Dẻ biến dạng",
+      "Bị oxy hóa bề mặt",
+      "Cải thiện tổ chức",
+      "Dễ biến dạng",
       "Cơ tính dẻo cao"
     ],
     "correct": 0,
-    "explanation": "Oxy hóa bề mặt là nhược điểm khi gia công nóng"
+    "explanation": "Oxy hóa bề mặt là nhược điểm chính khi gia công nóng, tạo lớp vảy oxit trên bề mặt"
   },
   {
     "id": 448,
@@ -5994,15 +5994,15 @@
     "id": 466,
     "exam": "546105",
     "topic": "de_thi",
-    "question": "Mục đích chủ yếu của thép sau khi tôi là gì?",
+    "question": "Phương pháp tôi nào cho thép có độ dai va chạm cao nhất và ít biến dạng nhất?",
     "options": [
-      "Tôi trong hai môi trường",
+      "Tôi trong một môi trường",
       "Tôi trong hai môi trường",
       "Tôi cục bộ",
       "Tôi đẳng nhiệt"
     ],
     "correct": 3,
-    "explanation": "Tôi đẳng nhiệt cho độ dai va chạm cao nhất, ít biến dạng"
+    "explanation": "Tôi đẳng nhiệt cho độ dai va chạm cao nhất và ít biến dạng nhất do chuyển biến đồng đều"
   },
   {
     "id": 467,
@@ -6022,15 +6022,15 @@
     "id": 468,
     "exam": "546105",
     "topic": "de_thi",
-    "question": "Tăng độ dai và chạm?",
+    "question": "Mục đích chủ yếu của ram thép sau khi tôi là gì?",
     "options": [
       "Tăng độ cứng",
       "Tăng độ bền kéo",
       "Tăng độ dai va chạm",
-      "Tăng độ cứng"
+      "Giảm độ dẻo"
     ],
     "correct": 2,
-    "explanation": "Ram sau tôi giúp tăng độ dai va chạm, giảm ứng suất dư"
+    "explanation": "Ram sau tôi giúp tăng độ dai va chạm, giảm ứng suất dư, giảm tính giòn"
   },
   {
     "id": 469,
@@ -6043,8 +6043,8 @@
       "Chất dính kết",
       "Đất sét"
     ],
-    "correct": 2,
-    "explanation": "Chất dính kết đảm bảo tính chống ăn mòn bề mặt khuôn"
+    "correct": 1,
+    "explanation": "Chất phụ (bột than, bột graphit) phủ lên bề mặt khuôn giúp chống ăn mòn/dính bám kim loại lỏng"
   },
   {
     "id": 470,
@@ -6869,8 +6869,8 @@
       "Lưu huỳnh",
       "Sắt"
     ],
-    "correct": 0,
-    "explanation": "Thấm nitơ áp dụng cho thép (hợp kim chứa cacbon)"
+    "correct": 1,
+    "explanation": "Thấm nitơ hiệu quả nhất cho thép chứa Al (nhôm), Cr, Mo. Thép 38CrMoAlA là điển hình cho thấm nitơ"
   },
   {
     "id": 529,
@@ -7520,29 +7520,29 @@
     "id": 575,
     "exam": "007",
     "topic": "de_thi",
-    "question": "Ổn định tổ chức hàn: liên tục ảnh hưởng đến sự thoát phoi là gì?",
+    "question": "Yếu tố nào của dao tiện ảnh hưởng trực tiếp đến sự thoát phoi?",
     "options": [
       "Góc sau",
       "Góc trước",
-      "Góc nghiêng",
-      "Góc mài dốc"
+      "Góc nghiêng chính",
+      "Góc mũi dao"
     ],
     "correct": 1,
-    "explanation": "Góc trước (γ) ảnh hưởng đến sự thoát phoi"
+    "explanation": "Góc trước (γ) ảnh hưởng trực tiếp đến sự thoát phoi và lực cắt"
   },
   {
     "id": 576,
     "exam": "007",
     "topic": "de_thi",
-    "question": "Các thành phần nào dưới đây của hàn: liên ảnh hưởng đến sự thoát phoi?",
+    "question": "Thông số hình học nào của dao cắt ảnh hưởng chủ yếu đến quá trình thoát phoi?",
     "options": [
-      "Góc sau",
-      "Góc trước",
-      "Góc mài dốc",
-      "Tăng độ cứng"
+      "Góc sau α",
+      "Góc trước γ",
+      "Góc mài β",
+      "Bán kính mũi dao"
     ],
     "correct": 1,
-    "explanation": "Góc trước γ ảnh hưởng trực tiếp đến thoát phoi"
+    "explanation": "Góc trước γ ảnh hưởng chủ yếu đến thoát phoi: γ lớn → phoi thoát dễ, lực cắt giảm"
   },
   {
     "id": 577,
@@ -7576,7 +7576,7 @@
     "id": 579,
     "exam": "007",
     "topic": "de_thi",
-    "question": "Chọn phương pháp hợp lý nhất để đúc ống gang cần lõi?",
+    "question": "Chọn phương pháp hợp lý nhất để đúc ống gang dài không cần lõi?",
     "options": [
       "Đúc li tâm ngang",
       "Khuôn cát",
@@ -7584,7 +7584,7 @@
       "Khuôn vô mỏng"
     ],
     "correct": 0,
-    "explanation": "Đúc li tâm ngang phù hợp cho đúc ống gang"
+    "explanation": "Đúc li tâm ngang phù hợp đúc ống dài, ưu điểm là không cần lõi"
   },
   {
     "id": 580,

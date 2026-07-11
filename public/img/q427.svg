@@ -1,30 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="Segoe UI, sans-serif">
-  <rect width="400" height="260" fill="#f8fafc" rx="8"/>
-  <text x="200" y="24" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">Sơ đồ nguyên lý máy tiện</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" font-family="Segoe UI, sans-serif">
+  <rect width="420" height="280" fill="#f8fafc" rx="8"/>
+  <text x="210" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">Sơ đồ nguyên lý máy tiện</text>
   <!-- Chuck -->
-  <circle cx="120" cy="130" r="50" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
-  <circle cx="120" cy="130" r="20" fill="#cbd5e1" stroke="#94a3b8" stroke-width="1.5"/>
-  <text x="120" y="135" text-anchor="middle" font-size="9" fill="#475569">Mâm cặp</text>
+  <circle cx="110" cy="130" r="50" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
+  <circle cx="110" cy="130" r="18" fill="#cbd5e1" stroke="#94a3b8" stroke-width="1.5"/>
   <!-- Workpiece -->
-  <rect x="140" y="118" width="160" height="24" fill="#fef3c7" stroke="#d97706" stroke-width="1.5" rx="2"/>
-  <text x="220" y="134" text-anchor="middle" font-size="10" fill="#92400e">Phôi</text>
-  <!-- Rotation arrow (main motion) -->
-  <path d="M 160,70 A 40,40 0 0,1 80,70" fill="none" stroke="#dc2626" stroke-width="2.5"/>
-  <polygon points="80,67 80,73 73,70" fill="#dc2626"/>
-  <text x="120" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#dc2626">n</text>
-  <text x="120" y="48" text-anchor="middle" font-size="10" fill="#dc2626">Chuyển động chính</text>
+  <rect x="130" y="118" width="170" height="24" fill="#fef3c7" stroke="#d97706" stroke-width="1.5" rx="2"/>
+  <text x="215" y="134" text-anchor="middle" font-size="10" fill="#92400e">Phôi</text>
+  <!-- Rotation arrow j (main motion - chuyển động chính) -->
+  <path d="M 150,72 A 42,42 0 0,1 70,72" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+  <polygon points="70,69 70,75 63,72" fill="#dc2626"/>
+  <circle cx="110" cy="56" r="14" fill="#dc2626"/>
+  <text x="110" y="61" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">j</text>
+  <text x="110" y="42" text-anchor="middle" font-size="9" fill="#dc2626">Chuyển động chính</text>
   <!-- Tool -->
-  <polygon points="250,142 270,142 270,180 260,185 250,180" fill="#94a3b8" stroke="#475569" stroke-width="1.5"/>
-  <text x="260" y="200" text-anchor="middle" font-size="10" fill="#475569">Dao</text>
-  <!-- Feed arrow -->
-  <line x1="280" y1="160" x2="330" y2="160" stroke="#2563eb" stroke-width="2" stroke-dasharray="4,3"/>
-  <polygon points="330,157 330,163 338,160" fill="#2563eb"/>
-  <text x="310" y="152" text-anchor="middle" font-size="12" font-weight="700" fill="#2563eb">S</text>
-  <text x="310" y="178" text-anchor="middle" font-size="9" fill="#2563eb">Chạy dao dọc</text>
+  <polygon points="255,142 275,142 275,185 265,190 255,185" fill="#94a3b8" stroke="#475569" stroke-width="1.5"/>
+  <text x="265" y="205" text-anchor="middle" font-size="10" fill="#475569">Dao</text>
+  <!-- Feed arrows with labels -->
+  <!-- i - chạy dao dọc -->
+  <line x1="285" y1="165" x2="340" y2="165" stroke="#2563eb" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="340,162 340,168 348,165" fill="#2563eb"/>
+  <circle cx="355" cy="165" r="12" fill="#2563eb"/>
+  <text x="355" y="170" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">i</text>
+  <text x="318" y="182" text-anchor="middle" font-size="9" fill="#2563eb">Chạy dao dọc</text>
+  <!-- k - chạy dao ngang -->
+  <line x1="265" y1="195" x2="265" y2="230" stroke="#16a34a" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="262,230 268,230 265,238" fill="#16a34a"/>
+  <circle cx="265" cy="248" r="12" fill="#16a34a"/>
+  <text x="265" y="253" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">k</text>
+  <text x="295" y="225" font-size="9" fill="#16a34a">Chạy dao ngang</text>
+  <!-- p - chuyển động phụ khác -->
+  <line x1="340" y1="130" x2="380" y2="130" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <circle cx="390" cy="130" r="12" fill="#f59e0b"/>
+  <text x="390" y="135" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">p</text>
   <!-- Tailstock -->
-  <rect x="300" y="120" width="30" height="20" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
-  <line x1="300" y1="130" x2="295" y2="130" stroke="#94a3b8" stroke-width="1.5"/>
-  <!-- Legend -->
-  <rect x="20" y="220" width="360" height="32" fill="#eff6ff" rx="6"/>
-  <text x="200" y="240" text-anchor="middle" font-size="10" fill="#1e40af">Chuyển động chính (n): phôi quay · Chạy dao (S): dao tịnh tiến</text>
+  <rect x="300" y="122" width="25" height="16" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="300" y1="130" x2="296" y2="130" stroke="#94a3b8" stroke-width="1.5"/>
 </svg>

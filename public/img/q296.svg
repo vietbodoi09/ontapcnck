@@ -1,32 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" font-family="Segoe UI, sans-serif">
-  <rect width="400" height="280" fill="#f8fafc" rx="8"/>
-  <text x="200" y="24" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">Sơ đồ cắt gọt kim loại</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" font-family="Segoe UI, sans-serif">
+  <rect width="420" height="280" fill="#f8fafc" rx="8"/>
+  <text x="210" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">Sơ đồ cắt gọt kim loại</text>
   <!-- Workpiece cross section -->
-  <rect x="100" y="50" width="200" height="120" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5" rx="2"/>
+  <rect x="100" y="50" width="220" height="130" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5" rx="2"/>
   <!-- Cut layer -->
-  <rect x="100" y="50" width="200" height="40" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
-  <text x="200" y="75" text-anchor="middle" font-size="11" fill="#92400e">Lớp cắt</text>
-  <text x="200" y="130" text-anchor="middle" font-size="11" fill="#64748b">Phôi</text>
+  <rect x="100" y="50" width="220" height="45" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <text x="210" y="78" text-anchor="middle" font-size="11" fill="#92400e">Lớp cắt</text>
+  <text x="210" y="135" text-anchor="middle" font-size="11" fill="#64748b">Phôi</text>
   <!-- t - depth of cut -->
-  <line x1="75" y1="50" x2="75" y2="90" stroke="#dc2626" stroke-width="2"/>
-  <line x1="70" y1="50" x2="80" y2="50" stroke="#dc2626" stroke-width="1.5"/>
-  <line x1="70" y1="90" x2="80" y2="90" stroke="#dc2626" stroke-width="1.5"/>
-  <text x="55" y="75" text-anchor="middle" font-size="14" font-weight="700" fill="#dc2626">t</text>
-  <text x="40" y="88" font-size="9" fill="#dc2626">chiều sâu cắt</text>
-  <!-- S - feed -->
-  <line x1="200" y1="195" x2="280" y2="195" stroke="#2563eb" stroke-width="2"/>
-  <polygon points="280,191 280,199 290,195" fill="#2563eb"/>
-  <text x="240" y="215" text-anchor="middle" font-size="14" font-weight="700" fill="#2563eb">S</text>
-  <text x="240" y="230" text-anchor="middle" font-size="9" fill="#2563eb">lượng chạy dao</text>
+  <line x1="75" y1="50" x2="75" y2="95" stroke="#7c3aed" stroke-width="2"/>
+  <line x1="68" y1="50" x2="82" y2="50" stroke="#7c3aed" stroke-width="1.5"/>
+  <line x1="68" y1="95" x2="82" y2="95" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="55" y="77" text-anchor="middle" font-size="16" font-weight="700" fill="#7c3aed">t</text>
+  <text x="38" y="60" font-size="9" fill="#7c3aed">chiều sâu</text>
+  <text x="38" y="70" font-size="9" fill="#7c3aed">cắt</text>
+  <!-- S - feed (HIGHLIGHTED - this is the answer) -->
+  <line x1="210" y1="205" x2="300" y2="205" stroke="#dc2626" stroke-width="3"/>
+  <polygon points="300,200 300,210 312,205" fill="#dc2626"/>
+  <rect x="230" y="215" width="40" height="24" fill="#dc2626" rx="6"/>
+  <text x="250" y="232" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">S</text>
+  <text x="250" y="252" text-anchor="middle" font-size="10" font-weight="600" fill="#dc2626">lượng chạy dao</text>
   <!-- b - width of cut -->
-  <line x1="100" y1="42" x2="300" y2="42" stroke="#16a34a" stroke-width="2"/>
-  <line x1="100" y1="38" x2="100" y2="46" stroke="#16a34a" stroke-width="1.5"/>
-  <line x1="300" y1="38" x2="300" y2="46" stroke="#16a34a" stroke-width="1.5"/>
-  <text x="200" y="37" text-anchor="middle" font-size="14" font-weight="700" fill="#16a34a">b</text>
+  <line x1="100" y1="40" x2="320" y2="40" stroke="#16a34a" stroke-width="2"/>
+  <line x1="100" y1="36" x2="100" y2="44" stroke="#16a34a" stroke-width="1.5"/>
+  <line x1="320" y1="36" x2="320" y2="44" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="210" y="36" text-anchor="middle" font-size="16" font-weight="700" fill="#16a34a">b</text>
   <!-- A label -->
-  <text x="330" y="75" font-size="12" font-weight="700" fill="#7c3aed">A = t × S</text>
-  <text x="330" y="90" font-size="9" fill="#7c3aed">diện tích cắt</text>
-  <!-- Legend -->
-  <rect x="20" y="245" width="360" height="28" fill="#eff6ff" rx="6"/>
-  <text x="200" y="263" text-anchor="middle" font-size="10" fill="#1e40af">A = diện tích cắt · t = chiều sâu cắt · S = lượng chạy dao · b = chiều rộng cắt</text>
+  <text x="345" y="75" font-size="14" font-weight="700" fill="#2563eb">A</text>
+  <text x="345" y="90" font-size="9" fill="#2563eb">= t × S</text>
 </svg>
