@@ -248,13 +248,3 @@ export default function App() {
             {q.image&&<img src={q.image} alt="" className="qimg"/>}
             <div className="wos">{q.options.map((o,i)=>
               <div key={i} className={`wo ${i===q.correct?"wc":i===uans?"ww":"wn"}`}>
-                <b style={{width:20}}>{OL[i]+"."}</b> {o}{i===q.correct?" ✅":""}{i===uans&&i!==q.correct?" ❌":""}
-              </div>
-            )}</div>
-            <div className="we">{q.explanation}</div>
-          </div>;
-        })}
-      </div>}
-    </div>
-  </>;
-}

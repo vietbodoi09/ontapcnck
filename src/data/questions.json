@@ -7922,5 +7922,2030 @@
     ],
     "correct": 0,
     "explanation": "C15 (thép cacbon thấp) dễ cắt bằng khí nhất"
+  },
+  {
+    "id": 604,
+    "part": 3,
+    "exam": "252621",
+    "question": "Vật liệu nào không dùng nấu chảy gang trong lò đứng?",
+    "options": [
+      "Gang thỏi lò cao",
+      "Quặng sắt",
+      "Than cốc",
+      "CaCO₃"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Trong lò đứng (lò Cupola), nguyên liệu gồm gang thỏi lò cao, than cốc (nhiên liệu) và CaCO₃ (chất trợ dung). Quặng sắt không dùng trực tiếp vì lò đứng không đủ nhiệt để hoàn nguyên quặng."
+  },
+  {
+    "id": 605,
+    "part": 3,
+    "exam": "252621",
+    "question": "Chỉ ra thành phần cacbon của gang trước cùng tinh?",
+    "options": [
+      "3% C",
+      "1,9% C",
+      "0,8% C",
+      "6,1% C"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "Gang trước cùng tinh có hàm lượng cacbon từ 2,14% đến 4,3%. Đáp án 3% C nằm trong khoảng này. 0,8%C là thép cùng tích, 1,9%C là thép, 6,1%C vượt quá giới hạn."
+  },
+  {
+    "id": 606,
+    "part": 3,
+    "exam": "252621",
+    "question": "Vật liệu nào sau đây có giới hạn bền cao nhất?",
+    "options": [
+      "CT42",
+      "CT31",
+      "CT51",
+      "CT38"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Trong ký hiệu CT, số sau CT là giới hạn bền kéo tối thiểu (kG/mm²). CT51 có số lớn nhất nên có giới hạn bền cao nhất."
+  },
+  {
+    "id": 607,
+    "part": 3,
+    "exam": "252621",
+    "question": "Yếu tố nào sau đây đánh giá cơ tính của vật liệu?",
+    "options": [
+      "Độ bền kéo",
+      "Tính nhiễm từ",
+      "Độ phẳng",
+      "Tính đúc"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "Cơ tính (tính chất cơ học) bao gồm: độ bền kéo, độ cứng, độ dẻo, độ dai va đập. Độ bền kéo là chỉ tiêu cơ tính. Tính nhiễm từ là lý tính, độ phẳng là dung sai hình học, tính đúc là tính công nghệ."
+  },
+  {
+    "id": 608,
+    "part": 3,
+    "exam": "252621",
+    "question": "Vật liệu nào dưới đây là hợp kim cứng?",
+    "options": [
+      "CD130",
+      "95W18Cr4V2",
+      "T30K4",
+      "85Cr8Mn5Si6"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Hợp kim cứng có ký hiệu dạng BK (WC-Co), TK hoặc T..K.. (WC-TiC-Co). T30K4 thuộc nhóm hợp kim cứng. CD là thép dụng cụ, 95W18Cr4V2 là thép gió, 85Cr8Mn5Si6 là thép hợp kim."
+  },
+  {
+    "id": 609,
+    "part": 3,
+    "exam": "252621",
+    "question": "Chỉ tiêu nào đánh giá tính đúc của hợp kim?",
+    "options": [
+      "Tính co",
+      "Tính dẻo",
+      "Tính chống ăn mòn",
+      "a và b"
+    ],
+    "answer": 0,
+    "topic": "duc",
+    "explanation": "Tính đúc của hợp kim bao gồm: tính chảy loãng, độ co ngót, tính thiên tích, khả năng điền đầy khuôn. Tính co là chỉ tiêu đánh giá tính đúc."
+  },
+  {
+    "id": 610,
+    "part": 3,
+    "exam": "252621",
+    "question": "Yếu tố nào sau đây đánh giá cơ tính của vật liệu?",
+    "options": [
+      "Độ dẻo",
+      "Nhiễm từ",
+      "Độ phẳng",
+      "Độ chảy loãng"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "Cơ tính (tính chất cơ học) bao gồm: độ bền kéo, độ cứng, độ dẻo, độ dai va đập. Độ dẻo là chỉ tiêu cơ tính. Tính nhiễm từ là lý tính, độ phẳng là dung sai hình học, tính đúc là tính công nghệ."
+  },
+  {
+    "id": 611,
+    "part": 3,
+    "exam": "252621",
+    "question": "Vật liệu nào sau đây có tính đúc tốt nhất?",
+    "options": [
+      "Thép cacbon thấp",
+      "Thép hợp kim thấp",
+      "Gang xám",
+      "Gang trắng"
+    ],
+    "answer": 2,
+    "topic": "duc",
+    "explanation": "Gang xám có tính đúc tốt nhất nhờ: tính chảy loãng cao, độ co ngót nhỏ (~1%), ít thiên tích. Thép cacbon và thép hợp kim có co ngót lớn hơn (~2%), gang trắng giòn khó đúc."
+  },
+  {
+    "id": 612,
+    "part": 3,
+    "exam": "252621",
+    "question": "Vật liệu nào được chế tạo bằng luyện kim bột?",
+    "options": [
+      "CT31",
+      "Thép hợp kim kết cấu",
+      "Thép các bon dụng cụ",
+      "Hợp kim cứng"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Hợp kim cứng (BK, TK) được chế tạo bằng phương pháp luyện kim bột: trộn bột WC, TiC, Co → ép → thiêu kết. CT31 là thép cacbon, thép hợp kim kết cấu và thép dụng cụ đều luyện bằng nấu chảy."
+  },
+  {
+    "id": 613,
+    "part": 3,
+    "exam": "252621",
+    "question": "Mục đích của thấm cacbon?",
+    "options": [
+      "Tăng độ dẻo",
+      "Tăng độ cứng bề mặt",
+      "Tăng độ dai va chạm",
+      "Giảm độ cứng bề mặt"
+    ],
+    "answer": 1,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Thấm cacbon (thấm C) nhằm tăng hàm lượng C lớp bề mặt (lên 0,8-1,0%C), sau đó tôi + ram thấp để đạt độ cứng bề mặt cao (58-62 HRC) trong khi lõi vẫn dẻo dai."
+  },
+  {
+    "id": 614,
+    "part": 3,
+    "exam": "252621",
+    "question": "Phương pháp nào đúc ống có nhiều lớp kim loại khác nhau?",
+    "options": [
+      "Đúc liên tục",
+      "Đúc trong khuôn mẫu chảy",
+      "Đúc trong khuôn cát",
+      "Đúc ly tâm"
+    ],
+    "answer": 3,
+    "topic": "duc",
+    "explanation": "Đúc ly tâm tạo lực ly tâm đẩy kim loại lỏng ra thành khuôn. Có thể rót nhiều lần kim loại khác nhau để tạo ống nhiều lớp (ví dụ: lớp ngoài gang trắng cứng, lớp trong gang xám)."
+  },
+  {
+    "id": 615,
+    "part": 3,
+    "exam": "252621",
+    "question": "Tổ chức nào của hợp kim Fe-C là dung dịch đặc?",
+    "options": [
+      "Peclit",
+      "Xêmentit",
+      "Lêđêburit",
+      "Ôstenit"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Ôstenit (γ) là dung dịch đặc (dung dịch rắn) của C trong Fe-γ (mạng lập phương tâm mặt). Ferit là dung dịch rắn C trong Fe-α. Peclit và Lêđêburit là hỗn hợp cơ học."
+  },
+  {
+    "id": 616,
+    "part": 3,
+    "exam": "252621",
+    "question": "Chỉ ra thành phần cacbon của thép cacbon dụng cụ?",
+    "options": [
+      "1,8% C",
+      "0,9% C",
+      "0,3% C",
+      "0,4% C"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Thép cacbon dụng cụ có hàm lượng C từ 0,7% đến 1,3%. Đáp án 0,9%C nằm trong khoảng này. 1,8%C quá cao (gang), 0,3-0,4%C là thép kết cấu."
+  },
+  {
+    "id": 617,
+    "part": 3,
+    "exam": "252621",
+    "question": "Vật liệu nào sau đây không cần tôi đã có độ cứng cao?",
+    "options": [
+      "90W18V2",
+      "GC40-6",
+      "BK10",
+      "38CrNi"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Hợp kim cứng (BK10, T15K6...) được chế tạo bằng thiêu kết, đã có độ cứng rất cao (87-92 HRA) mà không cần nhiệt luyện (tôi). Thép gió, thép hợp kim phải tôi mới đạt độ cứng cao."
+  },
+  {
+    "id": 618,
+    "part": 3,
+    "exam": "252621",
+    "question": "Mục đích của thấm nitơ là gì?",
+    "options": [
+      "Tăng độ cứng lớp bề mặt",
+      "Tăng dai va đập",
+      "Nâng cao độ dẻo",
+      "Nâng cao tính đàn hồi"
+    ],
+    "answer": 0,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Thấm nitơ (thấm N) tạo lớp nitrua cứng trên bề mặt, tăng độ cứng bề mặt (lên 1000-1200 HV), tăng khả năng chống mài mòn và chống ăn mòn."
+  },
+  {
+    "id": 619,
+    "part": 3,
+    "exam": "252621",
+    "question": "Vật liệu nào thuộc nhóm thép cacbon cao?",
+    "options": [
+      "C = 0,08%",
+      "C = 0,8%",
+      "C = 0,2%",
+      "C = 0,35%"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Thép cacbon cao có C > 0,6%. Đáp án C = 0,8% thuộc nhóm thép cacbon cao. C = 0,08% là thép cacbon cực thấp, 0,2% là thép cacbon thấp, 0,35% là thép cacbon trung bình."
+  },
+  {
+    "id": 620,
+    "part": 3,
+    "exam": "252621",
+    "question": "Nguyên tố nào gây ra tính bở nóng của thép?",
+    "options": [
+      "Mn",
+      "Si",
+      "S",
+      "P"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "S (lưu huỳnh) gây ra tính bở nóng: tạo FeS có nhiệt độ nóng chảy thấp (~988°C), nằm ở biên hạt, làm thép bị nứt vỡ khi gia công nóng (rèn, cán). P gây bở nguội."
+  },
+  {
+    "id": 621,
+    "part": 3,
+    "exam": "252621",
+    "question": "Ký hiệu nào chỉ độ bóng cao nhất?",
+    "options": [
+      "Ra 0,63",
+      "Ra 0,08",
+      "Ra 2,5",
+      "Ra 1,25"
+    ],
+    "answer": 1,
+    "topic": "dung_sai",
+    "explanation": "Ra là trị số trung bình số học của độ nhấp nhô bề mặt. Ra càng nhỏ thì bề mặt càng bóng (nhẵn). Ra 0,08 là giá trị nhỏ nhất → độ bóng cao nhất."
+  },
+  {
+    "id": 622,
+    "part": 3,
+    "exam": "252621",
+    "question": "Loại gang nào sau đây có độ bền kéo cao nhất?",
+    "options": [
+      "GC 45-5",
+      "GX 15-32",
+      "GX 28-55",
+      "GX 21-40"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Trong ký hiệu gang, số sau GX hoặc GC là giới hạn bền kéo (kG/mm²). GX 28-55 có giới hạn bền kéo cao nhất."
+  },
+  {
+    "id": 623,
+    "part": 3,
+    "exam": "252621",
+    "question": "Chỉ ra thành phần cacbon của thép 10Cr13?",
+    "options": [
+      "1,3% C",
+      "0,1% C",
+      "1% C",
+      "13% C"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Theo quy tắc ký hiệu thép hợp kim: số đầu (10) × 0,01 = 0,1%C. Cr13 = 13%Cr. Vậy thép 10Cr13 có 0,1%C và 13%Cr."
+  },
+  {
+    "id": 624,
+    "part": 3,
+    "exam": "252621",
+    "question": "Yếu tố nào được biểu thị trên giản đồ trạng thái?",
+    "options": [
+      "Độ dẻo của hợp kim",
+      "Tính đúc của hợp kim",
+      "Hàm lượng tạp chất",
+      "Hợp chất hóa học Fe₃C"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Giản đồ trạng thái Fe-C biểu thị các pha và tổ chức của hợp kim ở các nhiệt độ và thành phần khác nhau, bao gồm hợp chất hóa học Fe₃C (Xêmentit), các vùng pha Ferit, Ôstenit, Lêđêburit."
+  },
+  {
+    "id": 625,
+    "part": 3,
+    "exam": "252621",
+    "question": "Loại gang nào sau đây có độ cứng cao nhất?",
+    "options": [
+      "Gang cầu",
+      "Gang xám",
+      "Gang dẻo",
+      "Gang trắng"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Gang trắng có độ cứng cao nhất do C ở dạng liên kết hóa học Fe₃C (Xêmentit) rất cứng (800 HB). Gang xám, gang cầu, gang dẻo có graphit tự do nên mềm hơn."
+  },
+  {
+    "id": 626,
+    "part": 3,
+    "exam": "252621",
+    "question": "Chỉ tiêu nào đánh giá độ bóng bề mặt gia công cơ khí?",
+    "options": [
+      "Độ thẳng",
+      "Độ phẳng",
+      "Độ nhấp nhô tế vi",
+      "Độ sóng"
+    ],
+    "answer": 2,
+    "topic": "dung_sai",
+    "explanation": "Độ nhấp nhô tế vi (Ra hoặc Rz) là chỉ tiêu đánh giá độ bóng (độ nhám) bề mặt gia công cơ khí. Độ thẳng, độ phẳng, độ sóng là sai số hình dạng hình học."
+  },
+  {
+    "id": 627,
+    "part": 3,
+    "exam": "252621",
+    "question": "Loại khuôn nào để tạo ra tổ chức gang trắng khi đúc?",
+    "options": [
+      "Khuôn cát",
+      "Khuôn kim loại",
+      "Khuôn vỏ mỏng",
+      "Khuôn mẫu chảy"
+    ],
+    "answer": 1,
+    "topic": "duc",
+    "explanation": "Khuôn kim loại có tốc độ nguội rất nhanh, C không kịp tiết ra dạng graphit mà ở dạng Fe₃C → tạo tổ chức gang trắng. Khuôn cát nguội chậm → gang xám."
+  },
+  {
+    "id": 628,
+    "part": 3,
+    "exam": "252621",
+    "question": "Chọn phương pháp thích hợp để đúc ống dài có tiết diện ngang không đổi với năng suất cao?",
+    "options": [
+      "Đúc li tâm dừng",
+      "Đúc trong khuôn cát",
+      "Đúc áp lực",
+      "Đúc liên tục"
+    ],
+    "answer": 3,
+    "topic": "duc",
+    "explanation": "Đúc liên tục phù hợp để đúc ống dài có tiết diện không đổi với năng suất cao. Kim loại lỏng được rót liên tục qua khuôn làm nguội, sản phẩm được kéo ra liên tục."
+  },
+  {
+    "id": 629,
+    "part": 3,
+    "exam": "252621",
+    "question": "Tổ chức nào của hợp kim Fe-C là hỗn hợp cơ học?",
+    "options": [
+      "Ferit",
+      "Peclit",
+      "Ôstenit",
+      "Xêmentit"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Peclit là hỗn hợp cơ học của Ferit và Xêmentit (Fe₃C). Lêđêburit cũng là hỗn hợp cơ học. Ferit và Ôstenit là dung dịch rắn, Xêmentit là hợp chất hóa học."
+  },
+  {
+    "id": 630,
+    "part": 3,
+    "exam": "252621",
+    "question": "Vật liệu nào sau đây là thép hợp kim kết cấu?",
+    "options": [
+      "T15K6",
+      "20CrNi",
+      "90CrSi",
+      "90W9V2"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "20CrNi: 0,2%C, có Cr và Ni → thép hợp kim kết cấu (C thấp, dùng chế tạo chi tiết máy). T15K6 là hợp kim cứng, 90CrSi và 90W9V2 là thép dụng cụ (C cao)."
+  },
+  {
+    "id": 631,
+    "part": 3,
+    "exam": "252621",
+    "question": "Chỉ tiêu nào không thuộc tính đúc của hợp kim đúc?",
+    "options": [
+      "Tính chảy loãng",
+      "Tính bền nhiệt",
+      "Độ co ngót",
+      "Tính thiên tích"
+    ],
+    "answer": 1,
+    "topic": "duc",
+    "explanation": "Tính đúc của hợp kim bao gồm: tính chảy loãng, độ co ngót, tính thiên tích, khả năng điền đầy khuôn. Tính bền nhiệt là chỉ tiêu đánh giá tính đúc."
+  },
+  {
+    "id": 632,
+    "part": 3,
+    "exam": "252621",
+    "question": "Loại khuôn nào chỉ đúc được một lần?",
+    "options": [
+      "Khuôn mẫu chảy",
+      "Khuôn đúc áp lực",
+      "Khuôn kim loại",
+      "Khuôn đúc liên tục"
+    ],
+    "answer": 0,
+    "topic": "duc",
+    "explanation": "Khuôn mẫu chảy: mẫu bằng sáp/nhựa bọc vỏ gốm, khi rót kim loại lỏng mẫu bị chảy ra. Khuôn chỉ dùng được 1 lần. Khuôn kim loại, khuôn đúc áp lực dùng nhiều lần."
+  },
+  {
+    "id": 633,
+    "part": 3,
+    "exam": "252621",
+    "question": "Loại khuôn nào làm giảm tính chảy loãng nhiều nhất?",
+    "options": [
+      "Khuôn kim loại",
+      "Khuôn cát",
+      "Khuôn đất sét",
+      "Khuôn mẫu chảy"
+    ],
+    "answer": 0,
+    "topic": "duc",
+    "explanation": "Khuôn kim loại có hệ số dẫn nhiệt lớn, tản nhiệt nhanh làm kim loại lỏng nguội nhanh → giảm tính chảy loãng nhiều nhất so với khuôn cát, khuôn đất sét, khuôn mẫu chảy."
+  },
+  {
+    "id": 634,
+    "part": 3,
+    "exam": "252624",
+    "question": "Vật liệu nào dưới đây là hợp kim cứng?",
+    "options": [
+      "95W18Cr4V2",
+      "CD130",
+      "85Cr8Mn5Si6",
+      "T30K4"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Hợp kim cứng có ký hiệu dạng BK (WC-Co), TK hoặc T..K.. (WC-TiC-Co). T30K4 thuộc nhóm hợp kim cứng. CD là thép dụng cụ, 95W18Cr4V2 là thép gió, 85Cr8Mn5Si6 là thép hợp kim."
+  },
+  {
+    "id": 635,
+    "part": 3,
+    "exam": "252624",
+    "question": "Chỉ tiêu nào đánh giá tính đúc của hợp kim?",
+    "options": [
+      "Tính dẻo",
+      "Tính co",
+      "a và b",
+      "Tính chống ăn mòn"
+    ],
+    "answer": 1,
+    "topic": "duc",
+    "explanation": "Tính đúc của hợp kim bao gồm: tính chảy loãng, độ co ngót, tính thiên tích, khả năng điền đầy khuôn. Tính co là chỉ tiêu đánh giá tính đúc."
+  },
+  {
+    "id": 636,
+    "part": 3,
+    "exam": "252624",
+    "question": "Yếu tố nào sau đây đánh giá cơ tính của vật liệu?",
+    "options": [
+      "Nhiễm từ",
+      "Độ dẻo",
+      "Độ chảy loãng",
+      "Độ phẳng"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Cơ tính (tính chất cơ học) bao gồm: độ bền kéo, độ cứng, độ dẻo, độ dai va đập. Độ dẻo là chỉ tiêu cơ tính. Tính nhiễm từ là lý tính, độ phẳng là dung sai hình học, tính đúc là tính công nghệ."
+  },
+  {
+    "id": 637,
+    "part": 3,
+    "exam": "252624",
+    "question": "Vật liệu nào sau đây có tính đúc tốt nhất?",
+    "options": [
+      "Thép hợp kim thấp",
+      "Thép cacbon thấp",
+      "Gang trắng",
+      "Gang xám"
+    ],
+    "answer": 3,
+    "topic": "duc",
+    "explanation": "Gang xám có tính đúc tốt nhất nhờ: tính chảy loãng cao, độ co ngót nhỏ (~1%), ít thiên tích. Thép cacbon và thép hợp kim có co ngót lớn hơn (~2%), gang trắng giòn khó đúc."
+  },
+  {
+    "id": 638,
+    "part": 3,
+    "exam": "252624",
+    "question": "Vật liệu nào được chế tạo bằng luyện kim bột?",
+    "options": [
+      "Thép hợp kim kết cấu",
+      "CT31",
+      "Hợp kim cứng",
+      "Thép các bon dụng cụ"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Hợp kim cứng (BK, TK) được chế tạo bằng phương pháp luyện kim bột: trộn bột WC, TiC, Co → ép → thiêu kết. CT31 là thép cacbon, thép hợp kim kết cấu và thép dụng cụ đều luyện bằng nấu chảy."
+  },
+  {
+    "id": 639,
+    "part": 3,
+    "exam": "252624",
+    "question": "Loại gang nào sau đây có độ cứng cao nhất?",
+    "options": [
+      "Gang xám",
+      "Gang cầu",
+      "Gang trắng",
+      "Gang dẻo"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Gang trắng có độ cứng cao nhất do C ở dạng liên kết hóa học Fe₃C (Xêmentit) rất cứng (800 HB). Gang xám, gang cầu, gang dẻo có graphit tự do nên mềm hơn."
+  },
+  {
+    "id": 640,
+    "part": 3,
+    "exam": "252624",
+    "question": "Chỉ tiêu nào đánh giá độ bóng bề mặt gia công cơ khí?",
+    "options": [
+      "Độ phẳng",
+      "Độ thẳng",
+      "Độ sóng",
+      "Độ nhấp nhô tế vi"
+    ],
+    "answer": 3,
+    "topic": "dung_sai",
+    "explanation": "Độ nhấp nhô tế vi (Ra hoặc Rz) là chỉ tiêu đánh giá độ bóng (độ nhám) bề mặt gia công cơ khí. Độ thẳng, độ phẳng, độ sóng là sai số hình dạng hình học."
+  },
+  {
+    "id": 641,
+    "part": 3,
+    "exam": "252624",
+    "question": "Loại khuôn nào để tạo ra tổ chức gang trắng khi đúc?",
+    "options": [
+      "Khuôn cát",
+      "Khuôn kim loại",
+      "Khuôn mẫu chảy",
+      "Khuôn vỏ mỏng"
+    ],
+    "answer": 1,
+    "topic": "duc",
+    "explanation": "Khuôn kim loại có tốc độ nguội rất nhanh, C không kịp tiết ra dạng graphit mà ở dạng Fe₃C → tạo tổ chức gang trắng. Khuôn cát nguội chậm → gang xám."
+  },
+  {
+    "id": 642,
+    "part": 3,
+    "exam": "252624",
+    "question": "Chọn phương pháp thích hợp để đúc ống dài có tiết diện ngang không đổi với năng suất cao?",
+    "options": [
+      "Đúc li tâm dừng",
+      "Đúc trong khuôn cát",
+      "Đúc áp lực",
+      "Đúc liên tục"
+    ],
+    "answer": 3,
+    "topic": "duc",
+    "explanation": "Đúc liên tục phù hợp để đúc ống dài có tiết diện không đổi với năng suất cao. Kim loại lỏng được rót liên tục qua khuôn làm nguội, sản phẩm được kéo ra liên tục."
+  },
+  {
+    "id": 643,
+    "part": 3,
+    "exam": "252624",
+    "question": "Mục đích của thấm nitơ là gì?",
+    "options": [
+      "Tăng dai va đập",
+      "Tăng độ cứng lớp bề mặt",
+      "Nâng cao độ dẻo",
+      "Nâng cao tính đàn hồi"
+    ],
+    "answer": 1,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Thấm nitơ (thấm N) tạo lớp nitrua cứng trên bề mặt, tăng độ cứng bề mặt (lên 1000-1200 HV), tăng khả năng chống mài mòn và chống ăn mòn."
+  },
+  {
+    "id": 644,
+    "part": 3,
+    "exam": "252624",
+    "question": "Mục đích của thấm cacbon?",
+    "options": [
+      "Tăng độ cứng bề mặt",
+      "Tăng độ dẻo",
+      "Tăng độ dai va chạm",
+      "Tăng độ cứng bề mặt"
+    ],
+    "answer": 0,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Thấm cacbon (thấm C) nhằm tăng hàm lượng C lớp bề mặt (lên 0,8-1,0%C), sau đó tôi + ram thấp để đạt độ cứng bề mặt cao (58-62 HRC) trong khi lõi vẫn dẻo dai."
+  },
+  {
+    "id": 645,
+    "part": 3,
+    "exam": "252624",
+    "question": "Phương pháp nào đúc ống có nhiều lớp kim loại khác nhau?",
+    "options": [
+      "Đúc trong khuôn cát",
+      "Đúc liên tục",
+      "Đúc trong khuôn mẫu chảy",
+      "Đúc ly tâm"
+    ],
+    "answer": 3,
+    "topic": "duc",
+    "explanation": "Đúc ly tâm tạo lực ly tâm đẩy kim loại lỏng ra thành khuôn. Có thể rót nhiều lần kim loại khác nhau để tạo ống nhiều lớp (ví dụ: lớp ngoài gang trắng cứng, lớp trong gang xám)."
+  },
+  {
+    "id": 646,
+    "part": 3,
+    "exam": "252624",
+    "question": "Tổ chức nào của hợp kim Fe-C là dung dịch đặc?",
+    "options": [
+      "Xêmentit",
+      "Peclit",
+      "Ôstenit",
+      "Lêđêburit"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Ôstenit (γ) là dung dịch đặc (dung dịch rắn) của C trong Fe-γ (mạng lập phương tâm mặt). Ferit là dung dịch rắn C trong Fe-α. Peclit và Lêđêburit là hỗn hợp cơ học."
+  },
+  {
+    "id": 647,
+    "part": 3,
+    "exam": "252624",
+    "question": "Chỉ ra thành phần cacbon của thép cacbon dụng cụ?",
+    "options": [
+      "0,9% C",
+      "1,8% C",
+      "0,4% C",
+      "0,3% C"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "Thép cacbon dụng cụ có hàm lượng C từ 0,7% đến 1,3%. Đáp án 0,9%C nằm trong khoảng này. 1,8%C quá cao (gang), 0,3-0,4%C là thép kết cấu."
+  },
+  {
+    "id": 648,
+    "part": 3,
+    "exam": "252624",
+    "question": "Vật liệu nào sau đây không cần tôi đã có độ cứng cao?",
+    "options": [
+      "GC40-6",
+      "90W18V2",
+      "38CrNi",
+      "BK10"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Hợp kim cứng (BK10, T15K6...) được chế tạo bằng thiêu kết, đã có độ cứng rất cao (87-92 HRA) mà không cần nhiệt luyện (tôi). Thép gió, thép hợp kim phải tôi mới đạt độ cứng cao."
+  },
+  {
+    "id": 649,
+    "part": 3,
+    "exam": "252624",
+    "question": "Chỉ ra thành phần cacbon của thép 10Cr13?",
+    "options": [
+      "0,1% C",
+      "1,3% C",
+      "13% C",
+      "1% C"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "Theo quy tắc ký hiệu thép hợp kim: số đầu (10) × 0,01 = 0,1%C. Cr13 = 13%Cr. Vậy thép 10Cr13 có 0,1%C và 13%Cr."
+  },
+  {
+    "id": 650,
+    "part": 3,
+    "exam": "252624",
+    "question": "Yếu tố nào được biểu thị trên giản đồ trạng thái?",
+    "options": [
+      "Tính đúc của hợp kim",
+      "Độ dẻo của hợp kim",
+      "Hợp chất hóa học Fe₃C",
+      "Hàm lượng tạp chất"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Giản đồ trạng thái Fe-C biểu thị các pha và tổ chức của hợp kim ở các nhiệt độ và thành phần khác nhau, bao gồm hợp chất hóa học Fe₃C (Xêmentit), các vùng pha Ferit, Ôstenit, Lêđêburit."
+  },
+  {
+    "id": 651,
+    "part": 3,
+    "exam": "252624",
+    "question": "Vật liệu nào thuộc nhóm thép cacbon cao?",
+    "options": [
+      "C=0,8%",
+      "C=0,08%",
+      "C=0,35%",
+      "C=0,2%"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "Thép cacbon cao có C > 0,6%. Đáp án C = 0,8% thuộc nhóm thép cacbon cao. C = 0,08% là thép cacbon cực thấp, 0,2% là thép cacbon thấp, 0,35% là thép cacbon trung bình."
+  },
+  {
+    "id": 652,
+    "part": 3,
+    "exam": "252624",
+    "question": "Nguyên tố nào gây ra tính bở nóng của thép?",
+    "options": [
+      "Si",
+      "Mn",
+      "P",
+      "S"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "S (lưu huỳnh) gây ra tính bở nóng: tạo FeS có nhiệt độ nóng chảy thấp (~988°C), nằm ở biên hạt, làm thép bị nứt vỡ khi gia công nóng (rèn, cán). P gây bở nguội."
+  },
+  {
+    "id": 653,
+    "part": 3,
+    "exam": "252624",
+    "question": "Ký hiệu nào chỉ độ bóng cao nhất?",
+    "options": [
+      "Ra 0,08",
+      "Ra 0,63",
+      "Ra 1,25",
+      "Ra 2,5"
+    ],
+    "answer": 0,
+    "topic": "dung_sai",
+    "explanation": "Ra là trị số trung bình số học của độ nhấp nhô bề mặt. Ra càng nhỏ thì bề mặt càng bóng (nhẵn). Ra 0,08 là giá trị nhỏ nhất → độ bóng cao nhất."
+  },
+  {
+    "id": 654,
+    "part": 3,
+    "exam": "252624",
+    "question": "Loại gang nào sau đây có độ bền kéo cao nhất?",
+    "options": [
+      "GX 15-32",
+      "GC 45-5",
+      "GX 21-40",
+      "GX 28-55"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Trong ký hiệu gang, số sau GX hoặc GC là giới hạn bền kéo (kG/mm²). GX 28-55 có giới hạn bền kéo cao nhất."
+  },
+  {
+    "id": 655,
+    "part": 3,
+    "exam": "252624",
+    "question": "Tổ chức nào của hợp kim Fe-C là hỗn hợp cơ học?",
+    "options": [
+      "Peclit",
+      "Ferit",
+      "Ôstenit",
+      "Xêmentit"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "Peclit là hỗn hợp cơ học của Ferit và Xêmentit (Fe₃C). Lêđêburit cũng là hỗn hợp cơ học. Ferit và Ôstenit là dung dịch rắn, Xêmentit là hợp chất hóa học."
+  },
+  {
+    "id": 656,
+    "part": 3,
+    "exam": "252624",
+    "question": "Vật liệu nào sau đây là thép hợp kim kết cấu?",
+    "options": [
+      "20CrNi",
+      "T15K6",
+      "90W9V2",
+      "90CrSi"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "20CrNi: 0,2%C, có Cr và Ni → thép hợp kim kết cấu (C thấp, dùng chế tạo chi tiết máy). T15K6 là hợp kim cứng, 90CrSi và 90W9V2 là thép dụng cụ (C cao)."
+  },
+  {
+    "id": 657,
+    "part": 3,
+    "exam": "252624",
+    "question": "Chỉ tiêu nào không thuộc tính đúc của hợp kim đúc?",
+    "options": [
+      "Tính bền nhiệt",
+      "Tính chảy loãng",
+      "Tính thiên tích",
+      "Độ co ngót"
+    ],
+    "answer": 0,
+    "topic": "duc",
+    "explanation": "Tính đúc của hợp kim bao gồm: tính chảy loãng, độ co ngót, tính thiên tích, khả năng điền đầy khuôn. Tính bền nhiệt là chỉ tiêu đánh giá tính đúc."
+  },
+  {
+    "id": 658,
+    "part": 3,
+    "exam": "252624",
+    "question": "Loại khuôn nào chỉ đúc được một lần?",
+    "options": [
+      "Khuôn đúc áp lực",
+      "Khuôn mẫu chảy",
+      "Khuôn kim loại",
+      "Khuôn đúc liên tục"
+    ],
+    "answer": 1,
+    "topic": "duc",
+    "explanation": "Khuôn mẫu chảy: mẫu bằng sáp/nhựa bọc vỏ gốm, khi rót kim loại lỏng mẫu bị chảy ra. Khuôn chỉ dùng được 1 lần. Khuôn kim loại, khuôn đúc áp lực dùng nhiều lần."
+  },
+  {
+    "id": 659,
+    "part": 3,
+    "exam": "252624",
+    "question": "Loại khuôn nào làm giảm tính chảy loãng nhiều nhất?",
+    "options": [
+      "Khuôn cát",
+      "Khuôn kim loại",
+      "Khuôn mẫu chảy",
+      "Khuôn đất sét"
+    ],
+    "answer": 1,
+    "topic": "duc",
+    "explanation": "Khuôn kim loại có hệ số dẫn nhiệt lớn, tản nhiệt nhanh làm kim loại lỏng nguội nhanh → giảm tính chảy loãng nhiều nhất so với khuôn cát, khuôn đất sét, khuôn mẫu chảy."
+  },
+  {
+    "id": 660,
+    "part": 3,
+    "exam": "252624",
+    "question": "Vật liệu nào không dùng nấu chảy gang trong lò đứng?",
+    "options": [
+      "Quặng sắt",
+      "Gang thỏi lò cao",
+      "CaCO₃",
+      "Than cốc"
+    ],
+    "answer": 0,
+    "topic": "vat_lieu",
+    "explanation": "Trong lò đứng (lò Cupola), nguyên liệu gồm gang thỏi lò cao, than cốc (nhiên liệu) và CaCO₃ (chất trợ dung). Quặng sắt không dùng trực tiếp vì lò đứng không đủ nhiệt để hoàn nguyên quặng."
+  },
+  {
+    "id": 661,
+    "part": 3,
+    "exam": "252624",
+    "question": "Chỉ ra thành phần cacbon của gang trước cùng tinh?",
+    "options": [
+      "1,9% C",
+      "3% C",
+      "6,1% C",
+      "0,8% C"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Gang trước cùng tinh có hàm lượng cacbon từ 2,14% đến 4,3%. Đáp án 3% C nằm trong khoảng này. 0,8%C là thép cùng tích, 1,9%C là thép, 6,1%C vượt quá giới hạn."
+  },
+  {
+    "id": 662,
+    "part": 3,
+    "exam": "252624",
+    "question": "Vật liệu nào sau đây có giới hạn bền cao nhất?",
+    "options": [
+      "CT31",
+      "CT42",
+      "CT38",
+      "CT51"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Trong ký hiệu CT, số sau CT là giới hạn bền kéo tối thiểu (kG/mm²). CT51 có số lớn nhất nên có giới hạn bền cao nhất."
+  },
+  {
+    "id": 663,
+    "part": 3,
+    "exam": "252624",
+    "question": "Yếu tố nào sau đây đánh giá cơ tính của vật liệu?",
+    "options": [
+      "Tính nhiễm từ",
+      "Độ bền kéo",
+      "Độ phẳng",
+      "Tính đúc"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Cơ tính (tính chất cơ học) bao gồm: độ bền kéo, độ cứng, độ dẻo, độ dai va đập. Độ bền kéo là chỉ tiêu cơ tính. Tính nhiễm từ là lý tính, độ phẳng là dung sai hình học, tính đúc là tính công nghệ."
+  },
+  {
+    "id": 664,
+    "part": 3,
+    "exam": "2404",
+    "question": "Thép cùng tích có hàm lượng % các bon là bao nhiêu?",
+    "options": [
+      "2,14",
+      "0,5",
+      "0,8",
+      "0,02"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Thép cùng tích có 0,8%C (điểm S trên giản đồ Fe-C), tổ chức 100% Peclit. 2,14% là giới hạn thép-gang, 0,02% là giới hạn hòa tan C trong Ferit ở 727°C."
+  },
+  {
+    "id": 665,
+    "part": 3,
+    "exam": "2404",
+    "question": "Tính chất nào sau đây của kim loại lỏng có lợi cho quá trình đúc?",
+    "options": [
+      "Tính chảy loãng",
+      "Tính co",
+      "Tính hòa tan khí",
+      "Tính thiên tích"
+    ],
+    "answer": 0,
+    "topic": "duc",
+    "explanation": "Tính chảy loãng cao giúp kim loại lỏng điền đầy khuôn tốt, tạo vật đúc có hình dạng rõ nét. Tính co gây co ngót, hòa tan khí gây rỗ khí, thiên tích gây không đồng đều thành phần."
+  },
+  {
+    "id": 666,
+    "part": 3,
+    "exam": "2404",
+    "question": "Kích thước giới hạn lớn nhất là?",
+    "options": [
+      "Tổng giữa kích thước danh nghĩa và sai lệch giới hạn trên",
+      "Tổng giữa kích thước danh nghĩa với sai lệch giới hạn dưới",
+      "Tổng giữa kích thước thực với kích thước danh nghĩa",
+      "Tổng giữa sai lệch giới hạn trên và sai lệch giới hạn dưới"
+    ],
+    "answer": 0,
+    "topic": "dung_sai",
+    "explanation": "Kích thước giới hạn lớn nhất (dmax) = Kích thước danh nghĩa + Sai lệch giới hạn trên (ES). VD: φ50(+0,025/0) → dmax = 50 + 0,025 = 50,025 mm."
+  },
+  {
+    "id": 667,
+    "part": 3,
+    "exam": "2404",
+    "question": "Mục đích của thấm cacbon?",
+    "options": [
+      "Tăng độ dai va chạm",
+      "Khử ứng suất dư",
+      "Tăng %C lớp bề mặt",
+      "Giảm độ cứng toàn bộ"
+    ],
+    "answer": 2,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Thấm cacbon (thấm C) nhằm tăng hàm lượng C lớp bề mặt (lên 0,8-1,0%C), sau đó tôi + ram thấp để đạt độ cứng bề mặt cao (58-62 HRC) trong khi lõi vẫn dẻo dai."
+  },
+  {
+    "id": 668,
+    "part": 3,
+    "exam": "2404",
+    "question": "Ký hiệu nào sau đây chỉ độ bóng cao nhất?",
+    "options": [
+      "Rz 160",
+      "Rz 80",
+      "Rz 20",
+      "Rz 40"
+    ],
+    "answer": 2,
+    "topic": "dung_sai",
+    "explanation": "Rz là chiều cao nhấp nhô trung bình. Rz càng nhỏ thì bề mặt càng bóng. Rz 20 là giá trị nhỏ nhất trong các đáp án → độ bóng cao nhất."
+  },
+  {
+    "id": 669,
+    "part": 3,
+    "exam": "2404",
+    "question": "Giới hạn hòa tan của C trong sắt α (Fe_α) là bao nhiêu %?",
+    "options": [
+      "0,8",
+      "0,02",
+      "2,14",
+      "0,006"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Ferit (Fe-α, mạng lập phương tâm khối) hòa tan tối đa 0,02%C ở 727°C (điểm P trên giản đồ Fe-C). 0,8%C là thép cùng tích, 2,14% là giới hạn thép-gang."
+  },
+  {
+    "id": 670,
+    "part": 3,
+    "exam": "2404",
+    "question": "Chỉ ra thành phần cacbon của gang sau cùng tính?",
+    "options": [
+      "5% C",
+      "0,8% C",
+      "3% C",
+      "4,2% C"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Gang sau cùng tinh có hàm lượng C từ 4,3% đến 6,67%. 4,2%C nằm gần giá trị cùng tinh (4,3%) nhưng thuộc sau cùng tinh. 3%C là gang trước cùng tinh."
+  },
+  {
+    "id": 671,
+    "part": 3,
+    "exam": "2404",
+    "question": "Vật liệu nào dưới đây là hợp kim cứng?",
+    "options": [
+      "CD130",
+      "85Cr8Mn5Si6",
+      "95W18Cr4V2",
+      "T30K4"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Hợp kim cứng có ký hiệu dạng BK (WC-Co), TK hoặc T..K.. (WC-TiC-Co). T30K4 thuộc nhóm hợp kim cứng. CD là thép dụng cụ, 95W18Cr4V2 là thép gió, 85Cr8Mn5Si6 là thép hợp kim."
+  },
+  {
+    "id": 672,
+    "part": 3,
+    "exam": "2404",
+    "question": "Đánh giá chất lượng chi tiết gia công cần dựa vào?",
+    "options": [
+      "Độ nhám bề mặt",
+      "Độ chính xác gia công",
+      "Phương pháp gia công",
+      "Cả a và b"
+    ],
+    "answer": 3,
+    "topic": "dung_sai",
+    "explanation": "Đánh giá chất lượng chi tiết gia công cần dựa vào cả hai: độ nhám bề mặt và độ chính xác gia công (kích thước, hình dạng, vị trí). Phương pháp gia công chỉ là cách thực hiện."
+  },
+  {
+    "id": 673,
+    "part": 3,
+    "exam": "2404",
+    "question": "Nhiệt độ (°C) ram nào không ảnh hưởng tới độ cứng của thép đã tôi?",
+    "options": [
+      "200",
+      "400",
+      "800",
+      "600"
+    ],
+    "answer": 0,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Ram ở nhiệt độ thấp (150-250°C) hầu như không làm giảm độ cứng của thép đã tôi, chỉ giảm ứng suất dư. Ram 400-600°C giảm đáng kể độ cứng."
+  },
+  {
+    "id": 674,
+    "part": 3,
+    "exam": "2404",
+    "question": "Vật liệu nào sau đây, cacbon ở dạng liên kết hóa học?",
+    "options": [
+      "Gang dẻo",
+      "Gang cầu",
+      "Gang trắng",
+      "Gang xám"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Gang trắng có cacbon ở dạng liên kết hóa học Fe₃C (xêmentit). Gang xám có C dạng graphit tấm, gang cầu có C dạng graphit cầu, gang dẻo có C dạng graphit cụm."
+  },
+  {
+    "id": 675,
+    "part": 3,
+    "exam": "2404",
+    "question": "Ủ kết tinh lại là phương pháp xử lý nhiệt kim loại:",
+    "options": [
+      "Làm nhỏ mịn hạt",
+      "Làm nguội nhanh để kim loại kết tinh",
+      "Có xảy ra sự chuyển biến pha",
+      "Làm thay đổi thành phần hóa học lớp bề mặt"
+    ],
+    "answer": 0,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Ủ kết tinh lại nung kim loại đến nhiệt độ kết tinh lại → các hạt bị biến dạng tạo thành hạt mới nhỏ mịn hơn, khôi phục tính dẻo. Không xảy ra chuyển biến pha."
+  },
+  {
+    "id": 676,
+    "part": 3,
+    "exam": "2404",
+    "question": "Hàm lượng các bon nào của hợp kim Fe-C là thép cacbon trung bình?",
+    "options": [
+      "1,0%",
+      "0,8%",
+      "0,5%",
+      "0,2%"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Thép cacbon trung bình có C = 0,3-0,6%. Đáp án 0,5%C nằm trong khoảng này. 0,2%C là thép cacbon thấp, 0,8% và 1,0%C là thép cacbon cao."
+  },
+  {
+    "id": 677,
+    "part": 3,
+    "exam": "2404",
+    "question": "Chỉ ra ký hiệu có sai lệch dưới nhỏ nhất?",
+    "options": [
+      "100 ± 0,1",
+      "100(+0,2/-0,4)",
+      "100 ± 0,5",
+      "φ120 ± 0,2"
+    ],
+    "answer": 0,
+    "topic": "dung_sai",
+    "explanation": "Sai lệch dưới (EI/ei) là hiệu giữa kích thước giới hạn dưới và kích thước danh nghĩa. Đáp án 100 ± 0,1 có sai lệch dưới có giá trị tuyệt đối nhỏ nhất."
+  },
+  {
+    "id": 678,
+    "part": 3,
+    "exam": "2404",
+    "question": "Tổ chức nào của hợp kim Fe-C là hỗn hợp cơ học?",
+    "options": [
+      "Ôstenit",
+      "Xêmentit",
+      "Ferrit",
+      "Peclit"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Peclit là hỗn hợp cơ học của Ferit và Xêmentit (Fe₃C). Lêđêburit cũng là hỗn hợp cơ học. Ferit và Ôstenit là dung dịch rắn, Xêmentit là hợp chất hóa học."
+  },
+  {
+    "id": 679,
+    "part": 3,
+    "exam": "2404",
+    "question": "Tạp chất nào trong thép là có hại?",
+    "options": [
+      "Si",
+      "Cr",
+      "P",
+      "Mo"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "P (Photpho) là tạp chất có hại: gây tính bở nguội, tạo Fe₃P giòn ở biên hạt. S cũng có hại (bở nóng). Si, Cr, Mo là nguyên tố hợp kim có lợi."
+  },
+  {
+    "id": 680,
+    "part": 3,
+    "exam": "2404",
+    "question": "Vật liệu nào sau đây có tính tôi tốt nhất?",
+    "options": [
+      "C60",
+      "CD80",
+      "C45",
+      "GX 15-32"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Tính tôi phụ thuộc hàm lượng C và nguyên tố hợp kim. Thép có C > 0,3% mới có thể tôi hiệu quả. Gang xám (GX) không tôi được do graphit tạo ứng suất cục bộ."
+  },
+  {
+    "id": 681,
+    "part": 3,
+    "exam": "2404",
+    "question": "Mục đích của phương pháp ủ?",
+    "options": [
+      "Nâng cao độ thấm từ",
+      "Giảm độ dai va chạm",
+      "Tăng độ cứng",
+      "Tăng tính dẻo"
+    ],
+    "answer": 3,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Ủ nhằm tăng tính dẻo, giảm độ cứng, khử ứng suất dư, làm đồng đều tổ chức. Khác với tôi (tăng độ cứng) và ram (giảm giòn sau tôi)."
+  },
+  {
+    "id": 682,
+    "part": 3,
+    "exam": "2404",
+    "question": "Chi tiết nào sau đây có tác dụng tạo nên phần rỗng bên trong vật đúc?",
+    "options": [
+      "Đậu ngót",
+      "Mẫu",
+      "Lõi",
+      "Đậu rót"
+    ],
+    "answer": 2,
+    "topic": "duc",
+    "explanation": "Lõi (ruột) là chi tiết đặt trong khuôn để tạo nên phần rỗng bên trong vật đúc. Mẫu tạo hình bên ngoài, đậu ngót bù co ngót, đậu rót dẫn kim loại lỏng."
+  },
+  {
+    "id": 683,
+    "part": 3,
+    "exam": "2404",
+    "question": "Loại khuôn nào cho ta vật đúc có độ chính xác cao nhất?",
+    "options": [
+      "Khuôn kim loại",
+      "Khuôn cát làm bằng tay",
+      "Khuôn đất sét",
+      "Khuôn cát làm bằng máy"
+    ],
+    "answer": 0,
+    "topic": "duc",
+    "explanation": "Khuôn kim loại cho vật đúc có độ chính xác cao nhất nhờ: bề mặt khuôn nhẵn, kích thước ổn định, không bị biến dạng khi rót."
+  },
+  {
+    "id": 684,
+    "part": 3,
+    "exam": "2404",
+    "question": "Ký hiệu dung sai ◇ thể hiện điều gì?",
+    "options": [
+      "Dung sai độ phẳng",
+      "Dung sai độ song song",
+      "Dung sai độ thẳng",
+      "Dung sai độ nghiêng"
+    ],
+    "answer": 0,
+    "topic": "dung_sai",
+    "explanation": "Ký hiệu ◇ (hình thoi) thể hiện dung sai độ phẳng trong bản vẽ kỹ thuật. □ là dung sai độ vuông góc, // là dung sai độ song song, ⊥ là dung sai độ vuông góc."
+  },
+  {
+    "id": 685,
+    "part": 3,
+    "exam": "2404",
+    "question": "Trên giản đồ trạng thái Fe-C, điểm cùng tinh nằm trên đường nào?",
+    "options": [
+      "Đường A_m",
+      "Đường đặc",
+      "Đường A₁",
+      "Đường A₃"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Điểm cùng tinh (C') nằm trên đường lỏng (đường đặc - liquidus) tại 4,3%C và 1147°C. Đường A₁, A₃, Aₘ là các đường chuyển biến pha ở trạng thái rắn."
+  },
+  {
+    "id": 686,
+    "part": 3,
+    "exam": "2404",
+    "question": "Nguyên tố nào là thành phần nền trong hợp kim cứng?",
+    "options": [
+      "Titan (Ti)",
+      "Vonfram (W)",
+      "Cô ban (Co)",
+      "Cacbon (C)"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Co (Côban) là chất kết dính (nền) liên kết các hạt cacbua WC, TiC trong hợp kim cứng. W và Ti tạo cacbua cứng, C nằm trong cacbua."
+  },
+  {
+    "id": 687,
+    "part": 3,
+    "exam": "2404",
+    "question": "Vật liệu nào sau đây có tính đúc tốt nhất?",
+    "options": [
+      "Gang trắng",
+      "Thép cacbon thấp",
+      "Gang xám",
+      "Thép hợp kim thấp"
+    ],
+    "answer": 2,
+    "topic": "duc",
+    "explanation": "Gang xám có tính đúc tốt nhất nhờ: tính chảy loãng cao, độ co ngót nhỏ (~1%), ít thiên tích. Thép cacbon và thép hợp kim có co ngót lớn hơn (~2%), gang trắng giòn khó đúc."
+  },
+  {
+    "id": 688,
+    "part": 3,
+    "exam": "2404",
+    "question": "Yếu tố nào đánh giá cơ tính của vật liệu?",
+    "options": [
+      "Độ giãn dài nở nhiệt",
+      "Độ giãn dài tương đối",
+      "Độ hòa tan khí",
+      "Độ phẳng bề mặt"
+    ],
+    "answer": 1,
+    "topic": "vat_lieu",
+    "explanation": "Cơ tính (tính chất cơ học) bao gồm: độ bền kéo, độ cứng, độ dẻo, độ dai va đập. Độ giãn dài tương đối là chỉ tiêu cơ tính. Tính nhiễm từ là lý tính, độ phẳng là dung sai hình học, tính đúc là tính công nghệ."
+  },
+  {
+    "id": 689,
+    "part": 3,
+    "exam": "2404",
+    "question": "Vật liệu nào sau đây là thép cacbon kết cấu?",
+    "options": [
+      "CD30",
+      "C45",
+      "CK20",
+      "CCT38"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "CCT38 là thép cacbon kết cấu (CT = cacbon thường, số 38 = giới hạn bền kéo tối thiểu). CD30 là thép dụng cụ, C45 là thép cacbon chất lượng, CK20 là thép cacbon kết cấu chất lượng cao."
+  },
+  {
+    "id": 690,
+    "part": 3,
+    "exam": "2404",
+    "question": "Vật liệu nào sau đây là thép gió?",
+    "options": [
+      "20CrNi",
+      "90CrSi",
+      "140W9V5",
+      "100Cr12"
+    ],
+    "answer": 2,
+    "topic": "vat_lieu",
+    "explanation": "Thép gió (High Speed Steel) có ký hiệu chứa W (Vonfram) cao: 140W9V5 có 1,4%C, 9%W, 5%V. 20CrNi là thép kết cấu, 90CrSi là thép dụng cụ nguội, 100Cr12 là thép ổ lăn."
+  },
+  {
+    "id": 691,
+    "part": 3,
+    "exam": "2404",
+    "question": "Đối tượng được đưa vào một quá trình sản xuất để tạo ra sản phẩm được gọi là gì?",
+    "options": [
+      "Chi tiết máy",
+      "Bước",
+      "Nguyên công",
+      "Phôi"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Phôi là đối tượng đầu vào của quá trình sản xuất, được gia công để tạo ra chi tiết máy (sản phẩm). Nguyên công và bước là các phần của quy trình công nghệ."
+  },
+  {
+    "id": 692,
+    "part": 3,
+    "exam": "2404",
+    "question": "Tổ chức kim loại mong muốn đạt được trong quá trình tôi thép là?",
+    "options": [
+      "Mactensit",
+      "Xoocbit",
+      "Ôstenit",
+      "Peclit"
+    ],
+    "answer": 0,
+    "topic": "xu_ly_be_mat",
+    "explanation": "Tôi thép nhằm đạt tổ chức Mactensit - dung dịch rắn quá bão hòa C trong Fe-α, có độ cứng rất cao (60-65 HRC). Xoocbit, Peclit mềm hơn, Ôstenit chỉ tồn tại ở nhiệt độ cao."
+  },
+  {
+    "id": 693,
+    "part": 3,
+    "exam": "2404",
+    "question": "Khi nào thì kim loại có hạt nhỏ mịn sau quá trình kết tinh?",
+    "options": [
+      "Kim loại lỏng được làm nguội chậm",
+      "Khi kết tinh kim loại nguyên chất",
+      "Tốc độ phát triển hạt lớn hơn tốc độ sinh mầm",
+      "Kim loại lỏng có nhiều tạp chất phân tán"
+    ],
+    "answer": 3,
+    "topic": "vat_lieu",
+    "explanation": "Kim loại lỏng có nhiều tạp chất phân tán → nhiều mầm kết tinh → hạt nhỏ mịn. Nguội chậm → ít mầm, hạt lớn. Kim loại nguyên chất ít mầm kết tinh tự nhiên."
+  },
+  {
+    "id": 694,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chọn phương pháp thích hợp để đúc ống dài có tiết diện ngang không đổi với năng suất cao?",
+    "options": [
+      "Đúc li tâm đứng",
+      "Đúc liên tục",
+      "Đúc trong khuôn cát",
+      "Đúc áp lực"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Đúc liên tục phù hợp để đúc ống dài có tiết diện không đổi với năng suất cao. Kim loại lỏng được rót liên tục qua khuôn làm nguội, sản phẩm được kéo ra liên tục."
+  },
+  {
+    "id": 695,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chỉ tiêu nào ảnh hưởng đến tính gia công áp lực?",
+    "options": [
+      "Độ dẫn điện",
+      "Độ cứng",
+      "Tính co",
+      "Khối lượng riêng"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Tính gia công áp lực phụ thuộc vào: độ dẻo (quan trọng nhất), độ cứng, trở lực biến dạng. Độ cứng ảnh hưởng trực tiếp đến khả năng biến dạng dẻo của vật liệu."
+  },
+  {
+    "id": 696,
+    "part": 3,
+    "exam": "17221",
+    "question": "Bộ truyền động nào sau đây biến chuyển động quay liên tục thành chuyển động gián đoạn?",
+    "options": [
+      "Bánh răng",
+      "Đai",
+      "Cơ cấu cóc",
+      "Trục vít - bánh vít"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Cơ cấu cóc (cơ cấu Maltê) biến chuyển động quay liên tục thành quay gián đoạn. Bánh răng, đai, trục vít-bánh vít đều truyền chuyển động liên tục."
+  },
+  {
+    "id": 697,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào được chế tạo bằng sản phẩm luyện kim bột?",
+    "options": [
+      "CT31",
+      "Thép hợp kim kết cấu",
+      "Thép các bon dụng cụ",
+      "Hợp kim cứng"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Hợp kim cứng (BK, TK) được chế tạo bằng phương pháp luyện kim bột: trộn bột WC, TiC, Co → ép → thiêu kết. CT31 là thép cacbon, thép hợp kim kết cấu và thép dụng cụ đều luyện bằng nấu chảy."
+  },
+  {
+    "id": 698,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào chiếm tỷ lệ lớn nhất của hỗn hợp làm khuôn?",
+    "options": [
+      "Đất sét",
+      "Cát",
+      "Chất dính kết",
+      "Chất phụ"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Cát (SiO₂) chiếm 85-95% hỗn hợp làm khuôn cát. Đất sét chiếm 5-10% làm chất kết dính. Chất phụ gia và chất dính kết chiếm tỷ lệ nhỏ."
+  },
+  {
+    "id": 699,
+    "part": 3,
+    "exam": "17221",
+    "question": "Loại vật liệu hàn nào có nhiệm vụ bổ sung kim loại cho mối hàn trong công nghệ hàn MIG?",
+    "options": [
+      "Dây hàn nóng chảy",
+      "Điện cực Vonfram",
+      "Que hàn có thuốc bọc",
+      "Vảy hàn"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Trong hàn MIG (Metal Inert Gas), dây hàn nóng chảy vừa là điện cực vừa là vật liệu bổ sung kim loại cho mối hàn. Điện cực Vonfram dùng trong TIG (không nóng chảy)."
+  },
+  {
+    "id": 700,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào sau đây có tính đúc tốt nhất?",
+    "options": [
+      "Thép cacbon thấp",
+      "Thép hợp kim thấp",
+      "Gang xám",
+      "Gang trắng"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Gang xám có tính đúc tốt nhất nhờ: tính chảy loãng cao, độ co ngót nhỏ (~1%), ít thiên tích. Thép cacbon và thép hợp kim có co ngót lớn hơn (~2%), gang trắng giòn khó đúc."
+  },
+  {
+    "id": 701,
+    "part": 3,
+    "exam": "17221",
+    "question": "Phương pháp gia công lỗ nào đạt độ chính xác cao nhất?",
+    "options": [
+      "Khoét",
+      "Tiện lỗ",
+      "Doa",
+      "Khoan"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Doa (reaming) là phương pháp gia công tinh lỗ đạt độ chính xác cao nhất (IT6-IT7) và độ nhám thấp. Khoan và khoét là gia công thô, tiện lỗ đạt IT7-IT8."
+  },
+  {
+    "id": 702,
+    "part": 3,
+    "exam": "17221",
+    "question": "Phương pháp hàn nào sau đây thuộc nhóm các phương pháp hàn áp lực?",
+    "options": [
+      "Hàn rèn",
+      "Hàn điện hồ quang",
+      "Hàn plasma",
+      "Hàn laser"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Hàn rèn (hàn nèn) là phương pháp hàn áp lực: nung nóng kim loại rồi dùng lực ép để liên kết. Hàn hồ quang, hàn plasma, hàn laser đều là hàn nóng chảy."
+  },
+  {
+    "id": 703,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chỉ tiêu nào đánh giá tính chất vật lý của vật liệu?",
+    "options": [
+      "Độ nhấp nhô",
+      "Độ méo",
+      "Độ dẻo",
+      "Độ nhiễm từ"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Độ nhiễm từ (tính từ) là tính chất vật lý. Độ dẻo là cơ tính. Độ nhấp nhô và độ méo là đặc trưng hình học bề mặt."
+  },
+  {
+    "id": 704,
+    "part": 3,
+    "exam": "17221",
+    "question": "Góc nào là góc trước của dao tiện? (theo sơ đồ hình vẽ: n, m, k, p)",
+    "options": [
+      "n",
+      "m",
+      "k",
+      "p"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Góc trước (γ) của dao tiện là góc giữa mặt trước dao và mặt phẳng đáy. Trong sơ đồ, m là góc trước. Góc trước ảnh hưởng đến biến dạng phoi và lực cắt."
+  },
+  {
+    "id": 705,
+    "part": 3,
+    "exam": "17221",
+    "question": "Loại khuôn nào làm giảm cao nhất tính chảy loãng của hợp kim đúc?",
+    "options": [
+      "Khuôn cát",
+      "Khuôn kim loại",
+      "Khuôn đất sét",
+      "Khuôn mẫu chảy"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Khuôn kim loại dẫn nhiệt tốt, tản nhiệt nhanh làm kim loại lỏng nguội nhanh → giảm tính chảy loãng nhiều nhất so với khuôn cát, đất sét, mẫu chảy."
+  },
+  {
+    "id": 706,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chọn phương pháp hợp lý nhất để cắt phôi tấm có chiều dày lớn?",
+    "options": [
+      "Dùng cưa",
+      "Dùng đột dập",
+      "Cắt trên máy công cụ",
+      "Dùng mỏ cắt khí"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Dùng mỏ cắt khí (oxy-gas cutting) phù hợp nhất để cắt phôi tấm dày lớn. Phương pháp này cắt được tấm dày hàng chục mm đến hàng trăm mm."
+  },
+  {
+    "id": 707,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chuyển động nào được tự động hóa trong hàn hồ quang bán tự động?",
+    "options": [
+      "Chuyển động dọc trục điện cực",
+      "Chuyển động dọc theo đường hàn",
+      "Chuyển động dao động ngang",
+      "Cả a, b và c"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Trong hàn hồ quang bán tự động, chỉ chuyển động dọc trục điện cực (cấp dây hàn) được tự động hóa. Chuyển động dọc đường hàn do thợ hàn điều khiển bằng tay."
+  },
+  {
+    "id": 708,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chỉ ra thành phần cacbon của thép cacbon dụng cụ?",
+    "options": [
+      "1,8% C",
+      "0,9% C",
+      "0,4% C",
+      "0,3% C"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Thép cacbon dụng cụ có hàm lượng C từ 0,7% đến 1,3%. Đáp án 0,9%C nằm trong khoảng này. 1,8%C quá cao (gang), 0,3-0,4%C là thép kết cấu."
+  },
+  {
+    "id": 709,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào sau đây là thép hợp kim kết cấu?",
+    "options": [
+      "90CrSi",
+      "20CrNi",
+      "90W9V2",
+      "T15K6"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "20CrNi: 0,2%C, có Cr và Ni → thép hợp kim kết cấu (C thấp, dùng chế tạo chi tiết máy). T15K6 là hợp kim cứng, 90CrSi và 90W9V2 là thép dụng cụ (C cao)."
+  },
+  {
+    "id": 710,
+    "part": 3,
+    "exam": "17221",
+    "question": "Hàm lượng các bon nào của hợp kim Fe-C là gang trước cùng tinh?",
+    "options": [
+      "C = 3%",
+      "C = 4,5%",
+      "C = 5%",
+      "C = 5,1%"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Gang trước cùng tinh có 2,14-4,3%C. C = 3% nằm trong khoảng này. C = 4,5%, 5%, 5,1% đều > 4,3% → gang sau cùng tinh."
+  },
+  {
+    "id": 711,
+    "part": 3,
+    "exam": "17221",
+    "question": "Loại gang nào sau đây có độ cứng cao nhất?",
+    "options": [
+      "Gang cầu",
+      "Gang xám",
+      "Gang trắng",
+      "Gang dẻo"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Gang trắng có độ cứng cao nhất do C ở dạng liên kết hóa học Fe₃C (Xêmentit) rất cứng (800 HB). Gang xám, gang cầu, gang dẻo có graphit tự do nên mềm hơn."
+  },
+  {
+    "id": 712,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào sau đây có giới hạn bền cao nhất?",
+    "options": [
+      "CT31",
+      "CT38",
+      "CT42",
+      "CT51"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Trong ký hiệu CT, số sau CT là giới hạn bền kéo tối thiểu (kG/mm²). CT51 có số lớn nhất nên có giới hạn bền cao nhất."
+  },
+  {
+    "id": 713,
+    "part": 3,
+    "exam": "17221",
+    "question": "Xác định số vòng quay của trục chính khi tiện trục có đường kính D = 50 mm, chiều sâu cắt 1,5 mm, tốc độ cắt 62,8 m/phút?",
+    "options": [
+      "100 vòng/phút",
+      "200 vòng/phút",
+      "300 vòng/phút",
+      "400 vòng/phút"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "n = 1000×v/(π×D) = 1000×62,8/(3,14×50) = 62800/157 = 400 vòng/phút. Trong đó v là tốc độ cắt, D là đường kính phôi."
+  },
+  {
+    "id": 714,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chọn loại phụ tùng để gia công chi tiết lớn lệch tâm?",
+    "options": [
+      "Mâm cặp hoa mai",
+      "Mâm cặp 3 chấu",
+      "Mâm cặp 4 chấu",
+      "Mũi tâm"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Mâm cặp 4 chấu cho phép điều chỉnh từng chấu độc lập, có thể gá chi tiết lệch tâm. Mâm cặp 3 chấu tự định tâm nên không gá được chi tiết lệch tâm."
+  },
+  {
+    "id": 715,
+    "part": 3,
+    "exam": "17221",
+    "question": "Tổ chức nào của hợp kim Fe-C là dung dịch đặc?",
+    "options": [
+      "Peclit",
+      "Xêmentit",
+      "Ôstenit",
+      "Lêđêburit"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Ôstenit (γ) là dung dịch đặc (dung dịch rắn) của C trong Fe-γ (mạng lập phương tâm mặt). Ferit là dung dịch rắn C trong Fe-α. Peclit và Lêđêburit là hỗn hợp cơ học."
+  },
+  {
+    "id": 716,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chọn loại máy công cụ để gia công mặt trụ?",
+    "options": [
+      "Máy mài phẳng",
+      "Máy khoan cần",
+      "Máy bào giường",
+      "Cả a và c"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Gia công mặt trụ có thể thực hiện trên nhiều loại máy. Trong các đáp án, cả máy mài phẳng (có thể mài tròn ngoài) và máy bào giường đều không chuyên cho mặt trụ, nhưng đáp án d) Cả a và c."
+  },
+  {
+    "id": 717,
+    "part": 3,
+    "exam": "17221",
+    "question": "Loại khuôn nào để tạo ra tổ chức gang trắng khi đúc?",
+    "options": [
+      "Khuôn cát",
+      "Đúc trong khuôn vỏ mỏng",
+      "Khuôn kim loại",
+      "Đúc bằng mẫu chảy"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Khuôn kim loại có tốc độ nguội rất nhanh, C không kịp tiết ra dạng graphit mà ở dạng Fe₃C → tạo tổ chức gang trắng. Khuôn cát nguội chậm → gang xám."
+  },
+  {
+    "id": 718,
+    "part": 3,
+    "exam": "17221",
+    "question": "Hiện tượng nào làm phá hủy thép mà không thể phục hồi được xảy ra khi nung nóng để gia công áp lực?",
+    "options": [
+      "Cháy",
+      "Thoát các bon",
+      "Ôxy hóa",
+      "Quá nhiệt"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Cháy (burning) là hiện tượng nung quá nhiệt độ cho phép, gây oxy hóa biên hạt, phá hủy liên kết giữa các hạt → thép bị phá hủy không thể phục hồi. Quá nhiệt chỉ làm hạt to ra, có thể ủ lại."
+  },
+  {
+    "id": 719,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào sau đây dễ hàn hồ quang nhất?",
+    "options": [
+      "GX15-32",
+      "CD80A",
+      "C15",
+      "12Cr19Ni9Ti"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "C15 (thép cacbon thấp 0,15%C) dễ hàn nhất vì C thấp, ít nguyên tố hợp kim. Gang (GX15-32) và thép dụng cụ (CD80A) khó hàn do C cao. 12Cr19Ni9Ti là thép không gỉ, cần quy trình đặc biệt."
+  },
+  {
+    "id": 720,
+    "part": 3,
+    "exam": "17221",
+    "question": "Hãy chỉ ra chuyển động chính trên sơ đồ tiện (ký hiệu j, n, k, p, i, m)?",
+    "options": [
+      "p",
+      "j",
+      "k",
+      "i"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Trong tiện, chuyển động chính là chuyển động quay của phôi (ký hiệu j). Chuyển động chạy dao (n, i) là chuyển động tịnh tiến dọc/ngang của dao."
+  },
+  {
+    "id": 721,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào sau đây không cần tôi đã có độ cứng cao?",
+    "options": [
+      "90W18V2",
+      "GC40-6",
+      "BK10",
+      "38CrNi"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Hợp kim cứng (BK10, T15K6...) được chế tạo bằng thiêu kết, đã có độ cứng rất cao (87-92 HRA) mà không cần nhiệt luyện (tôi). Thép gió, thép hợp kim phải tôi mới đạt độ cứng cao."
+  },
+  {
+    "id": 722,
+    "part": 3,
+    "exam": "17221",
+    "question": "Yếu tố nào đánh giá cơ tính của lớp bề mặt vật liệu?",
+    "options": [
+      "Độ lồi lõm",
+      "Độ chịu mài mòn",
+      "Độ bóng",
+      "Độ phẳng"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Cơ tính (tính chất cơ học) bao gồm: độ bền kéo, độ cứng, độ dẻo, độ dai va đập. Độ chịu mài mòn là chỉ tiêu cơ tính. Tính nhiễm từ là lý tính, độ phẳng là dung sai hình học, tính đúc là tính công nghệ."
+  },
+  {
+    "id": 723,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào sau đây không có khả năng rèn?",
+    "options": [
+      "Thép ít cacbon",
+      "Gang dẻo",
+      "Hợp kim đồng",
+      "Hợp kim nhôm dẻo"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Gang dẻo tuy tên là 'dẻo' nhưng vẫn là gang (C > 2,14%), rất giòn khi gia công nóng nên không thể rèn. Thép cacbon thấp, hợp kim đồng, hợp kim nhôm đều rèn được."
+  },
+  {
+    "id": 724,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chọn lượng chạy dao cho nguyên công mài tròn ngoài?",
+    "options": [
+      "0,25 mm/phút",
+      "0,25 mm/hành trình kép",
+      "0,25 mm/răng",
+      "0,025 mm/vòng"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Mài tròn ngoài có lượng chạy dao rất nhỏ, đo bằng mm/vòng (0,025 mm/vòng). mm/phút dùng cho phay, mm/hành trình kép cho bào, mm/răng cho phay."
+  },
+  {
+    "id": 725,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chỉ ra ký hiệu có sai lệch dưới nhỏ nhất?",
+    "options": [
+      "100 ± 0,5",
+      "100(+0,2/-0,4)",
+      "100 ± 0,2",
+      "100(+0,1/-0,1)"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Sai lệch dưới (EI/ei) là hiệu giữa kích thước giới hạn dưới và kích thước danh nghĩa. Đáp án 100(+0,1/-0,1) có sai lệch dưới có giá trị tuyệt đối nhỏ nhất."
+  },
+  {
+    "id": 726,
+    "part": 3,
+    "exam": "17221",
+    "question": "Yếu tố nào sau đây của hợp kim được biểu thị trên giản đồ trạng thái?",
+    "options": [
+      "Độ dai va đập",
+      "Tính đúc của hợp kim",
+      "Cùng tính lêđêburit",
+      "Tạp chất"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Giản đồ trạng thái Fe-C biểu thị các pha và tổ chức của hợp kim ở các nhiệt độ và thành phần khác nhau, bao gồm hợp chất hóa học Fe₃C (Xêmentit), các vùng pha Ferit, Ôstenit, Lêđêburit."
+  },
+  {
+    "id": 727,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vị trí hàn nào sau đây là dễ thực hiện nhất khi hàn hồ quang tay?",
+    "options": [
+      "Vị trí hàn sấp",
+      "Vị trí hàn trần",
+      "Vị trí hàn đứng",
+      "Vị trí hàn ngang"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Vị trí hàn sấp (flat position) dễ thực hiện nhất: trọng lực giữ kim loại lỏng trong vũng hàn, hồ quang ổn định. Hàn trần, đứng, ngang khó hơn do kim loại lỏng chảy xuống."
+  },
+  {
+    "id": 728,
+    "part": 3,
+    "exam": "17221",
+    "question": "Phương pháp gia công kim loại tạo sản phẩm dạng tấm?",
+    "options": [
+      "Ép",
+      "Dập thể tích",
+      "Kéo",
+      "Cán"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Cán là phương pháp gia công áp lực tạo sản phẩm dạng tấm (thép tấm, thép lá). Phôi đi qua giữa 2 trục cán quay ngược chiều, giảm chiều dày và tăng chiều dài."
+  },
+  {
+    "id": 729,
+    "part": 3,
+    "exam": "17221",
+    "question": "Máy nào chỉ có 1 chuyển động chạy dao?",
+    "options": [
+      "Mài tròn",
+      "Tiện vạn năng",
+      "Phay",
+      "Khoan"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Khoan chỉ có 1 chuyển động chạy dao (tiến dọc trục mũi khoan). Mài tròn, tiện, phay có nhiều chuyển động chạy dao (dọc, ngang, thẳng đứng)."
+  },
+  {
+    "id": 730,
+    "part": 3,
+    "exam": "17221",
+    "question": "Khi hàn hồ quang tay, cách nối điện nào sau đây được quy ước là nối nghịch?",
+    "options": [
+      "Que hàn nối với cực âm của nguồn hàn một chiều",
+      "Que hàn nối với cực dương của nguồn hàn một chiều",
+      "Vật hàn nối với cực dương của nguồn hàn một chiều",
+      "Que hàn và vật hàn nối vào 2 cực của nguồn hàn xoay chiều"
+    ],
+    "answer": 1,
+    "topic": "",
+    "explanation": "Nối nghịch (DCEP - Direct Current Electrode Positive): que hàn nối cực dương (+), vật hàn nối cực âm (-). Nhiệt tập trung vào que hàn, dùng cho hàn kim loại mỏng hoặc hàn nhôm."
+  },
+  {
+    "id": 731,
+    "part": 3,
+    "exam": "17221",
+    "question": "Mục đích của thấm nitơ?",
+    "options": [
+      "Tăng độ cứng lớp bề mặt",
+      "Tăng dai va chạm",
+      "Nâng cao độ dẻo",
+      "Nâng cao tính đàn hồi"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Thấm nitơ (thấm N) tạo lớp nitrua cứng trên bề mặt, tăng độ cứng bề mặt (lên 1000-1200 HV), tăng khả năng chống mài mòn và chống ăn mòn."
+  },
+  {
+    "id": 732,
+    "part": 3,
+    "exam": "17221",
+    "question": "Vật liệu nào có thể dùng làm dụng cụ cắt gọt?",
+    "options": [
+      "CT46",
+      "Thép các bon kết cấu",
+      "Hợp kim cứng",
+      "Gang trắng"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Hợp kim cứng (BK, TK) có độ cứng cao (87-92 HRA), chịu nhiệt tốt, dùng làm dụng cụ cắt gọt. CT46 là thép kết cấu, thép cacbon kết cấu quá mềm, gang trắng giòn."
+  },
+  {
+    "id": 733,
+    "part": 3,
+    "exam": "17221",
+    "question": "Đặc điểm nào được coi là ưu điểm cơ bản khi hàn bằng nguồn hàn một chiều so với nguồn xoay chiều?",
+    "options": [
+      "Điện áp không tải lớn",
+      "Phạm vi điều chỉnh dòng điện rộng",
+      "Thiết bị đơn giản",
+      "Hồ quang có tính ổn định cao"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Nguồn hàn một chiều (DC) cho hồ quang ổn định hơn AC vì dòng điện không đổi chiều. AC đổi chiều 50Hz làm hồ quang tắt-cháy liên tục, kém ổn định."
+  },
+  {
+    "id": 734,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chọn phương pháp gia công áp lực thích hợp nhất để tạo sản phẩm có chiều dài và tiết diện phức tạp bằng kim loại màu?",
+    "options": [
+      "Ép kim loại",
+      "Kéo",
+      "Dập thể tích",
+      "Rèn tự do"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Ép kim loại (extrusion) phù hợp nhất tạo sản phẩm dài, tiết diện phức tạp bằng kim loại màu (nhôm, đồng). Kim loại bị ép qua lỗ khuôn có hình dạng tiết diện mong muốn."
+  },
+  {
+    "id": 735,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chỉ tiêu nào đánh giá độ bóng bề mặt gia công cơ khí?",
+    "options": [
+      "Độ thẳng",
+      "Độ phẳng",
+      "Độ sóng",
+      "Độ nhấp nhô tế vi"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Độ nhấp nhô tế vi (Ra hoặc Rz) là chỉ tiêu đánh giá độ bóng (độ nhám) bề mặt gia công cơ khí. Độ thẳng, độ phẳng, độ sóng là sai số hình dạng hình học."
+  },
+  {
+    "id": 736,
+    "part": 3,
+    "exam": "17221",
+    "question": "Nhóm máy nào có chuyển động chính là chuyển động quay tròn của dao?",
+    "options": [
+      "Doa",
+      "Tiện",
+      "Bào",
+      "Xọc"
+    ],
+    "answer": 0,
+    "topic": "",
+    "explanation": "Doa có chuyển động chính là quay tròn của dao (dụng cụ). Tiện: phôi quay. Bào và xọc: chuyển động tịnh tiến."
+  },
+  {
+    "id": 737,
+    "part": 3,
+    "exam": "17221",
+    "question": "Yếu tố nào đánh giá cơ tính của vật liệu?",
+    "options": [
+      "Độ lồi lõm",
+      "Độ hòa tan khí",
+      "Độ phẳng",
+      "Độ cứng HB"
+    ],
+    "answer": 3,
+    "topic": "",
+    "explanation": "Cơ tính (tính chất cơ học) bao gồm: độ bền kéo, độ cứng, độ dẻo, độ dai va đập. Độ cứng HB là chỉ tiêu cơ tính. Tính nhiễm từ là lý tính, độ phẳng là dung sai hình học, tính đúc là tính công nghệ."
+  },
+  {
+    "id": 738,
+    "part": 3,
+    "exam": "17221",
+    "question": "Chỉ tiêu nào không thuộc tính đúc của hợp kim đúc?",
+    "options": [
+      "Tính chảy loãng",
+      "Độ co ngót",
+      "Tính bền nhiệt",
+      "Tính thiên tích"
+    ],
+    "answer": 2,
+    "topic": "",
+    "explanation": "Tính đúc của hợp kim bao gồm: tính chảy loãng, độ co ngót, tính thiên tích, khả năng điền đầy khuôn. Tính bền nhiệt là chỉ tiêu đánh giá tính đúc."
   }
 ]
